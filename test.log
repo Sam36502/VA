@@ -1,0 +1,89 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.9.21)  21 SEP 2021 14:26
+entering extended mode
+**e:/TBZ/VA/test.tex
+(e:/TBZ/VA/test.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-27> (E:\Progs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(E:\Progs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (E:\Progs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (E:\Progs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count189
+\l__pdf_internal_box=\box47
+) (test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+ (test.toc)
+\tf@toc=\write3
+\openout3 = `test.toc'.
+
+ [1
+
+{C:/Users/sam/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 83.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 83.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--89
+
+ []
+
+
+Overfull \hbox (40.35pt too wide) in paragraph at lines 81--89
+[] 
+ []
+
+[3] (test.aux) ) 
+Here is how much of TeX's memory you used:
+ 450 strings out of 479081
+ 7622 string characters out of 2866349
+ 302874 words of memory out of 3000000
+ 18215 multiletter control sequences out of 15000+600000
+ 407713 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,7n,41p,160b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\sam\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on test.pdf (3 pages, 75289 bytes).
+PDF statistics:
+ 37 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
