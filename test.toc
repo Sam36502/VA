@@ -1,7 +1,7 @@
-\contentsline {section}{\numberline {1}Problem Description}{2}{}%
-\contentsline {section}{\numberline {2}Current State of Research}{2}{}%
-\contentsline {section}{\numberline {3}Questions to be Answered}{2}{}%
-\contentsline {section}{\numberline {4}Method}{2}{}%
-\contentsline {section}{\numberline {5}Required Materials}{2}{}%
-\contentsline {section}{\numberline {6}Time Plan}{2}{}%
-\contentsline {section}{\numberline {7}Signatures}{3}{}%
+\contentsline {section}{\numberline {1}Problem Description}{2}%
+\contentsline {section}{\numberline {2}Current State of Research}{2}%
+\contentsline {section}{\numberline {3}Questions to be Answered}{2}%
+\contentsline {section}{\numberline {4}Method}{2}%
+\contentsline {section}{\numberline {5}Required Materials}{3}%
+\contentsline {section}{\numberline {6}Time Plan}{3}%
+\contentsline {section}{\numberline {7}Signatures}{4}%

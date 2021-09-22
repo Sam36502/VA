@@ -1,33 +1,42 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.9.21)  21 SEP 2021 14:26
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  23 SEP 2021 00:54
 entering extended mode
-**e:/TBZ/VA/test.tex
-(e:/TBZ/VA/test.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-05-27> (E:\Progs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(E:\Progs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/sam/Documents/GitHub/VA/test.tex
+(c:/Users/sam/Documents/GitHub/VA/test.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-11> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count181
-\c@section=\count182
-\c@subsection=\count183
-\c@subsubsection=\count184
-\c@paragraph=\count185
-\c@subparagraph=\count186
-\c@figure=\count187
-\c@table=\count188
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (E:\Progs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
+\bibindent=\dimen134
+) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
-) (E:\Progs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count189
-\l__pdf_internal_box=\box47
-) (test.aux)
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count171
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count172
+\g__pdf_backend_annotation_int=\count173
+) (c:/Users/sam/Documents/GitHub/VA/test.aux)
 \openout1 = `test.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -39,6 +48,12 @@ LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8.
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -50,40 +65,38 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
- (test.toc)
+ (c:/Users/sam/Documents/GitHub/VA/test.toc)
 \tf@toc=\write3
 \openout3 = `test.toc'.
 
  [1
 
-{C:/Users/sam/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+] [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 83.
+(Font)              <7> on input line 67.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 83.
+(Font)              <5> on input line 67.
+ [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 123.
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--89
+Underfull \hbox (badness 10000) in paragraph at lines 121--129
 
  []
 
 
-Overfull \hbox (40.35pt too wide) in paragraph at lines 81--89
+Overfull \hbox (40.35pt too wide) in paragraph at lines 121--129
 [] 
  []
 
-[3] (test.aux) ) 
+[4] (c:/Users/sam/Documents/GitHub/VA/test.aux) ) 
 Here is how much of TeX's memory you used:
- 450 strings out of 479081
- 7622 string characters out of 2866349
- 302874 words of memory out of 3000000
- 18215 multiletter control sequences out of 15000+600000
- 407713 words of font info for 41 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 34i,7n,41p,160b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\sam\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on test.pdf (3 pages, 75289 bytes).
-PDF statistics:
- 37 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 479 strings out of 479294
+ 9327 string characters out of 5884395
+ 251656 words of memory out of 5000000
+ 18169 multiletter control sequences out of 15000+600000
+ 536066 words of font info for 46 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 24i,7n,21p,183b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on c:/Users/sam/Documents/GitHub/VA/test.xdv (4 pages, 44160 bytes).
