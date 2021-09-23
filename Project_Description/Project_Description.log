@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  23 SEP 2021 00:54
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  23 SEP 2021 18:55
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/sam/Documents/GitHub/VA/test.tex
-(c:/Users/sam/Documents/GitHub/VA/test.tex
+**c:/Users/sam/Documents/GitHub/VA/Project_Description/Project_Description.tex
+(c:/Users/sam/Documents/GitHub/VA/Project_Description/Project_Description.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-05-11> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -36,8 +36,8 @@ File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
 \l__pdf_internal_box=\box45
 \g__pdf_backend_object_int=\count172
 \g__pdf_backend_annotation_int=\count173
-) (c:/Users/sam/Documents/GitHub/VA/test.aux)
-\openout1 = `test.aux'.
+) (c:/Users/sam/Documents/GitHub/VA/Project_Description/Project_Description.aux)
+\openout1 = `Project_Description.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -65,9 +65,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
- (c:/Users/sam/Documents/GitHub/VA/test.toc)
+ (c:/Users/sam/Documents/GitHub/VA/Project_Description/Project_Description.toc)
 \tf@toc=\write3
-\openout3 = `test.toc'.
+\openout3 = `Project_Description.toc'.
 
  [1
 
@@ -77,26 +77,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 67.
  [3]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 123.
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--129
+Underfull \hbox (badness 10000) in paragraph at lines 122--130
 
  []
 
 
-Overfull \hbox (40.35pt too wide) in paragraph at lines 121--129
+Overfull \hbox (40.35pt too wide) in paragraph at lines 122--130
 [] 
  []
 
-[4] (c:/Users/sam/Documents/GitHub/VA/test.aux) ) 
+[4] (c:/Users/sam/Documents/GitHub/VA/Project_Description/Project_Description.aux) ) 
 Here is how much of TeX's memory you used:
- 479 strings out of 479294
- 9327 string characters out of 5884395
- 251656 words of memory out of 5000000
- 18169 multiletter control sequences out of 15000+600000
- 536066 words of font info for 46 fonts, out of 8000000 for 9000
+ 464 strings out of 479294
+ 9457 string characters out of 5884395
+ 250656 words of memory out of 5000000
+ 18162 multiletter control sequences out of 15000+600000
+ 535130 words of font info for 40 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 24i,7n,21p,183b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 24i,7n,21p,218b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/test.xdv (4 pages, 44160 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/Project_Description/Project_Description.xdv (4 pages, 41228 bytes).
