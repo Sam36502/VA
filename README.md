@@ -4,17 +4,13 @@ My Vertiefungsarbeit (In-depth work) on the topic of language complexity and
 scope.
 
 ## Topic
-The topic I have chosen is the relationship between language complexity (vocabulary, inflection, phonology, etc.) and its scope, i.e. what contexts the language is
-applicable in. E.g. If I had a language that only had three words:
+I intend to create a series of small conlangs to test the limits of comprehension.
+I'll translate a short story into the languages and teach them to volunteers
+and document how it goes.
+If I have time left over, I'll also design a custom writing system with a font for it.
 
-| Word | Meaning |
-|------|---------|
-| ik   | I, Me   |
-| puke | Burger  |
-| uila | To Want |
-
-The only context this language could really be used in, is if I want a burger.
-
-The hypothesis is that this is a (fairly) linear relationship:
-
-![Hypothesis graph](hypo_graph.PNG)
+## Documents
+### [Project Description](https://github.com/Sam36502/VA/blob/main/Project_Description/Project_Description.pdf)
+### ~~Language Documentation~~
+### ~~Language usability~~
+### ~~Script Design~~
