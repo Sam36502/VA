@@ -1,0 +1,16 @@
+Basic Language Complexity Index (BLCI):
+
+	BLCI = LS + PC
+
+LS (Lexicon Size) = Largest dictionary size / 50'000
+
+English LS  : 10.40
+Mandarin LS :  7.56
+Japanese LS : 10.00
+Russian LS  :  5.00
+Korean LS   : 22.01
+French LS   :  2.70
+German LS   :  6.60
+Spanish LS  :  1.86
+Hindi LS    :  3.66
+Toki Pona LS:  0.0026
