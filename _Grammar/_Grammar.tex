@@ -1,93 +1,65 @@
-\documentclass{clgrammar}
-
-\title{A Grammar of Foo}
-
-\author{J Rain De Jager}
+\documentclass{book}
+\usepackage[utf8]{inputenc}
+\usepackage{tipa}
 
 \begin{document}
 
-\maketitle
+\begingroup
+\centering
+\vfill
+\Huge {REFERENCE \\ GRAMMAR}\\
+\huge{\&}\\
+\Huge{DICTIONARY}\\
+\huge{of}\\
+\Huge{--Valang--}\\
+\Large{Redo Title Page at some point...}\\
+\large{By Samuel Pearce}\\
+\vfill\null
+\endgroup
 
 \tableofcontents
-%\listofchanges
 
-\mainmatter
 \chapter{Introduction}
+--Valang-- is a constructed language, or conlang, which was created in 2021 for a school
+assignment as an experiment. The goal was to create a language which was as small and as
+easy to learn as possible. It began as a series of small languages, each being smaller
+than the last. I was looking for the point where a language becomes impractically small
+and no longer useful in day-to-day life. --Valang-- is the final result of this.
 
+\part{Grammar}
 
 \chapter{Phonology}
-
 \section{Consonants}
-
 \begin{center}
-    \begin{tabular}{l|c|c|c|c}
-        & labial & alveolar & velar & glottal \\
+    \begin{tabular}{l|c|c|c}
+                    & Bilabial          & Alveoalar  & Palatal \\
         \hline
-        Nasal & m & n & ŋ & \\
-        Plosive & p & t & k & ʔ \\
-        Fricative & f v & s & & h \\
-        Lateral & & l & & \\
-        Rhotic & & r & &
+        Nasal       & m                 & n         & \textipa{N} \\
+        Plosive     & p                 & t         & k \\
+        Fricative   & \textipa{F} [f]   & s         & x \\
+        Liquid      & w                 & l         & j \\
     \end{tabular}
 \end{center}
 
 \section{Vowels}
-
 \begin{center}
-    \begin{tabular}{l|c|c}
-        Monophthongs & Front & Back \\
+    \begin{tabular}{l|c|c|c}
+                    & Front                 & Centre        & Back \\
         \hline
-        Close & i iː & u uː \\
-        Mid & e eː & o oː \\
-        Open & a aː
+        Close       & i y                   &               & \textipa{W [2]} u \\
+        Middle      &                       & \textipa{@}   & \\
+        Open        & a \textscoelig [\oe]  &               & \\
     \end{tabular}
 \end{center}
 
-\section{Stress}
-
-Stress generally falls on the penultimate mora.
-
-\section{Phonotactics}
-
-(C)Vn
+\chapter{Orthography}
 
 \chapter{Morphology}
 
-
-
-\section{Lorem Ipsum}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus consequat ipsum vel risus vehicula, eget tempor erat ullamcorper. Integer tincidunt ipsum at ante varius euismod. Nullam vitae enim quis odio rutrum maximus et at libero. Donec iaculis elit eu volutpat eleifend. Donec pharetra, lectus eget vulputate tempor, ipsum turpis semper erat, nec maximus elit ligula sit amet ipsum. Maecenas non iaculis quam, ut tincidunt nibh. Nam magna nisi, auctor laoreet maximus a, congue ac elit. Integer purus nisi, varius in odio vitae, tempor imperdiet neque. Nunc id turpis rutrum, tincidunt enim lobortis, tincidunt enim. Phasellus sodales, sem at auctor vehicula, libero sem molestie nibh, sed pulvinar nisi est vel ex. Praesent eu eros at est elementum pretium sed sed dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque lacinia neque metus, ac finibus est commodo eget. Morbi volutpat, est vel malesuada tempor, arcu eros vehicula neque, eget auctor urna metus et metus.
-
-\subsection{Nam Enim}
-Nam enim mi, bibendum eget pulvinar vel, efficitur vitae dolor. Curabitur sodales imperdiet tortor non facilisis. Phasellus lectus erat, aliquet id ipsum ut, euismod maximus lacus. Ut faucibus lectus quis ex accumsan lacinia. Proin ut purus eu urna commodo commodo eu vel tortor. Aenean non pellentesque diam. Phasellus blandit nisi ac varius eleifend. Pellentesque condimentum dapibus mollis. Vestibulum rutrum posuere turpis volutpat rutrum. Sed id accumsan lectus. Sed mollis leo id luctus rutrum. Ut tincidunt, purus sed lobortis vestibulum, felis ligula euismod orci, sodales sodales risus dolor ac sem. Phasellus eu risus nec nunc viverra ultrices eget tincidunt magna. Duis finibus aliquam molestie. Suspendisse ac dui consequat est dictum sagittis.
-
-\subsubsection{Aenean}
-Aenean ultrices odio ut purus eleifend, non aliquam enim scelerisque. Sed cursus tellus eu tortor consequat, a varius velit varius. Sed id nulla aliquam, cursus lectus vel, iaculis velit. Nulla ultrices tristique metus tincidunt faucibus. Nullam mattis eros porttitor arcu pellentesque bibendum. Sed vestibulum laoreet lorem, maximus hendrerit libero faucibus a. Integer faucibus mattis ante at suscipit.
-
-\section{Aliquam}
-Aliquam erat volutpat. Quisque dignissim neque sit amet mauris iaculis imperdiet. Fusce tincidunt porta augue, eget malesuada magna ultrices non. Nam efficitur egestas lorem sed congue. Etiam in sapien urna. Quisque gravida porta lectus, ac laoreet ex lobortis nec. Donec rhoncus ante et erat dictum euismod. Morbi non felis vel neque malesuada finibus sit amet iaculis risus. Aliquam in turpis dapibus, rutrum orci sed, auctor felis.
-
-\subsection{Proin Vitae}
-Proin vitae ultrices arcu. Praesent auctor volutpat orci ac elementum. Donec at condimentum purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque scelerisque vestibulum dolor eu ultrices. Nulla quis nisl aliquam, vehicula eros vel, pharetra lectus. Suspendisse lobortis nunc a augue sagittis, vel luctus lectus luctus. Nulla tempor nulla nec mauris dapibus, ut varius magna hendrerit. Phasellus varius orci vel neque finibus posuere. Aliquam turpis arcu, rhoncus eget neque id, eleifend dictum nisi. Duis massa elit, mollis a velit in, faucibus faucibus lorem. Sed euismod rhoncus hendrerit. Cras posuere mi sit amet elit consequat, a volutpat dolor pulvinar. Integer maximus quam ornare consectetur fringilla. Pellentesque aliquam nisl sed risus viverra, et luctus lorem vestibulum. Nulla commodo mi a metus efficitur ultrices. 
-
-\chapter{Derivational Morphology}
-
 \chapter{Syntax}
 
-\section{Sentence Order}
+\chapter{Sentence Order}
 
-\section{Noun Phrase Order}
-
-\chapter{Semantics \& Pragmatics}
-
-\chapter{Writing System}
-
-\section{History}
-
-\subsection{Instrument and Medium}
-
-\chapter{Examples}
-
-\chapter{Lexicon}
+\part{Lexicon}
 
 \end{document}

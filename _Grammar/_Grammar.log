@@ -1,0 +1,118 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.9.21)  6 OCT 2021 21:40
+entering extended mode
+**e:/TBZ/VA/_Grammar/_Grammar.tex
+(e:/TBZ/VA/_Grammar/_Grammar.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-05-27> (E:\Progs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(E:\Progs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@chapter=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (E:\Progs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/tipa\tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+ (E:\Progs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+ (C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+))) (E:\Progs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count190
+\l__pdf_internal_box=\box47
+) (_Grammar.aux)
+\openout1 = `_Grammar.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 5.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 5.
+ (C:\Users\sam\AppData\Roaming\MiKTeX\tex/latex/tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 5.
+ [1{C:/Users/sam/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+] [2
+
+] (_Grammar.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write3
+\openout3 = `_Grammar.toc'.
+
+ [3] [4
+
+]
+Chapter 1.
+[5] [6
+
+] [7] [8]
+Chapter 2.
+[9
+
+] [10
+
+]
+Chapter 3.
+[11] [12
+
+]
+Chapter 4.
+[13] [14
+
+]
+Chapter 5.
+[15] [16
+
+]
+Chapter 6.
+[17] [18
+
+] [19] [20] (_Grammar.aux) ) 
+Here is how much of TeX's memory you used:
+ 1499 strings out of 479081
+ 19732 string characters out of 2866349
+ 306273 words of memory out of 3000000
+ 19255 multiletter control sequences out of 15000+600000
+ 407620 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,67p,171b,177s stack positions out of 5000i,500n,10000p,200000b,80000s
+<E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:/Progs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/sam/AppData/Roaming/MiKTeX/fonts/type1/public/tipa/tipa10.pfb>
+Output written on _Grammar.pdf (20 pages, 104181 bytes).
+PDF statistics:
+ 95 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
