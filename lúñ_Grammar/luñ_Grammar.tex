@@ -1,0 +1,236 @@
+\documentclass{book}
+\usepackage[utf8]{inputenc}
+\usepackage{tipa}
+
+\newcommand{\entry}[4]{\textbf{#1} --- /\textipa{#2}/ \emph{#3} $\bullet$ #4\\}
+\newcommand{\ö}{\textscoelig}
+
+\begin{document}
+
+\begingroup
+\centering
+\vfill
+\Huge{REFERENCE \\ GRAMMAR}\\
+\huge{\&}\\
+\Huge{DICTIONARY}\\
+\huge{of}\\
+\Huge{Luñ}\\
+\Large{Redo Title Page at some point...}\\
+\large{By Samuel Pearce}\\
+\vfill\null
+\endgroup
+\thispagestyle{empty}
+
+\tableofcontents
+\pagebreak
+
+\section{Introduction}
+Luñ is a constructed language, or conlang, which was created in 2021 for a school
+assignment as an experiment. The goal was to create a language which was as small and as
+easy to learn as possible. It began as a series of small languages, each being smaller
+than the last. I was looking for the point where a language becomes impractically small
+and no longer useful in day-to-day life. Luñ is the final result of this.
+
+
+
+\part{Grammar}
+\chapter{Phonology}
+\section{Consonants}
+\begin{center}
+    \begin{tabular}{l|c|c|c}
+                    & Bilabial          & Alveoalar  & Palatal \\
+        \hline
+        Nasal       & m                 & n         & \textipa{N} \\
+        Plosive     & p                 & t         & k \\
+        Fricative   & \textipa{F} [f]   & s         & x \\
+        Liquid      & w                 & l         & j \\
+    \end{tabular}
+\end{center}
+
+\section{Vowels}
+\begin{center}
+    \begin{tabular}{l|c|c|c}
+                    & Front         & Centre            & Back \\
+        \hline
+        Close       & i y           &                   & \textipa{W [2]} u \\
+        Middle      &               & \textipa{@ [e]}   & \\
+        Open        & a \ö [\oe]    &                   & \\
+    \end{tabular}
+\end{center}
+
+\section{Phonotactics}
+In Luñ, roots are bi-consonantal and the vowel determines what part of speech the word is.
+For these root words, the consonant structure is \textbf{CVC} Where V is any vowel except /\textipa{@}/,
+C is any consonant.
+
+\section{Orthography}
+
+\subsection{Romanisation}
+The romanisation used might seem quite strange to an outside observer, but it was designed to
+emphasize the duality of the main vowels (y, u, a) with their rounded equivalents (ý, ú, á) which
+represents a change in meaning for the roots. Though given that this might be difficult to understand
+and not as easy to type as it is on a QWERTZ keyboard, a more phonetic alternative is also provided with
+digraph alternatives to the diacritics used.
+
+\begin{center}
+    \begin{tabular}{|c|c|c|}
+        \hline
+        IPA & Rom. & Alt. \\
+        \hline
+        p           & p & p \\
+        t           & t & t \\
+        k           & k & k \\
+        m           & m & m \\
+        n           & n & n \\
+        \textipa{N} & ñ & ng \\
+        \textipa{F} & f & f \\
+        s           & s & s \\
+        x           & x & x \\
+        \textipa{@} & e & e \\
+        \hline
+    \end{tabular}
+    \begin{tabular}{|c|c|c|}
+        \hline
+        IPA & Rom. & Alt. \\
+        \hline
+        w           & w & w \\
+        l           & l & l \\
+        j           & j & j \\
+        a           & a & a \\
+        \ö          & á & ö/oe \\
+        i           & y & i \\
+        y           & ý & ü/ue \\
+        \textipa{W} & u & u \\
+        u           & ú & ú/uu \\
+                    &   &  \\
+        \hline
+    \end{tabular}
+\end{center}
+
+\subsection{Writing System}
+Given the rigidly structured syllables, I experimented with the idea of writing systems that used this
+to their advantage for more regular and compact glyphs, but found this too complicated and received
+feedback that confirmed this fear. So I decided to go for a simpler alphabetic system for the writing
+system. I definitely wanted to make it a featural system though, because I had layed the phonemes out
+in a systematic manner for this purpose.
+
+
+\chapter{Morphology}
+\section{Universal Inflections}
+These are a few inflections (mostly prefixes) which can be applied to any root, no matter the
+part of speech. Though these changes may not always yield a result that fully makes sense.
+
+\subsection{Opposites}
+You can form the opposite meaning of a 
+
+\section{Nouns}
+\subsection{Number}
+In Fluñ, Nouns all have the "u" sound in the root which is unrounded for singular and rounded for plural.
+For example:
+
+\begin{center}
+    "Mun" $\rightarrow$ "a game" \\
+    "Mún" $\rightarrow$ "many games"
+\end{center}
+
+\subsection{Case}
+Fluñ has 4 grammatical cases which are all formed with a simple suffix according to the following table:
+
+\begin{center}
+    \begin{tabular}{|r|l|l|}
+        \hline
+        Case Name   & Suffix    & Example \\
+        \hline
+        Nominative  & -         & pux \\
+        Accusative  & -e        & puxe \\
+        Dative      & -em       & puxem \\
+        Genitive    & -es       & puxes \\
+        \hline
+    \end{tabular}
+\end{center}
+
+
+\section{Verbs}
+\subsection{Mood}
+Fluñ has two verb moods: Indicative \& Imperative. These are also formed by the root-sound's roundness.
+All Verbs use the "y" sound for their roots. "Y" is indicative, while "ý" is imperative:
+
+\begin{center}
+    "ut kyñ" $\rightarrow$ "You go." / "You are going." \\
+    "ut kýñ" $\rightarrow$ "You, go!"
+\end{center}
+
+\subsection{Tense}
+Fluñ has 3 tenses which are all formed with a simple suffix according to the following table:
+
+\begin{center}
+    \begin{tabular}{|r|l|r|l|}
+        \hline
+        Tense Name  & Suffix    & Example   & Meaning \\
+        \hline
+        Past        & -et       & pixet     & ate, were eating \\
+        Present     & - (-ef)   & pix       & eat, are eating \\
+        Future      & -ej       & pixej     & will eat \\
+        \hline
+    \end{tabular}
+\end{center}
+The present tense is the default tense and needn't be marked, but if it is, it emphasizes that
+the action is taking place now. E.g.:
+
+\begin{center}
+    "ut kyñ kumem?" $\rightarrow$ "Where are you going?" \\
+    "ut kyñef kumem?" $\rightarrow$ "Where are you going now?"
+\end{center}
+
+
+\section{Adjectives}
+\subsection{Positive \& Superlative}
+Adjectives in Fluñ all have the "a" sound in their root which is rounded to form the superlative
+form of the adjective.
+
+\begin{center}
+    "tas pux" $\rightarrow$ "good food" \\
+    "tás pux" $\rightarrow$ "the best food"
+\end{center}
+
+\subsection{Comparing}
+To compare two things, you can add the augmentitive prefix to the greater adjective with a 
+
+
+\chapter{Syntax}
+
+\chapter{Sentence Order}
+
+
+
+\part{Lexicon}
+
+\begin{center}
+    \Huge{P}
+\end{center}
+
+{\Large\textbf{p-x}} \\
+\entry{pux}{"p2x}{n. sg.}{Food, an item of food, a meal}
+\entry{púx}{"pux}{n. pl.}{Food, many items of food}
+\entry{pyx}{"pix}{v. ind.}{to eat, to drink, to consume}
+\entry{pýx}{"pyx}{v. imp.}{eat!, drink!, consume!}
+\entry{pax}{"pax}{a. pos.}{edible}
+\entry{páx}{"p\ö x}{a. sup.}{most edible}
+
+\begin{center}
+    \Huge{T}
+\end{center}
+
+\begin{center}
+    \Huge{K}
+\end{center}
+
+{\Large\textbf{k-ñ}} \\
+\entry{kuñ}{"k2N}{n. sg.}{a walk, a motion/movement, a journey}
+\entry{kúñ}{"kuN}{n. pl.}{many walks, many motions/movements, many journeys}
+\entry{kyñ}{"kiN}{v. ind.}{to walk, to move, to go}
+\entry{kýñ}{"kyN}{v. imp.}{walk!, move!, go!}
+\entry{kañ}{"kaN}{a. pos.}{in motion, moving, going, living}
+\entry{káñ}{"k\ö N}{a. sup.}{moving the most, the most alive}
+
+\end{document}
