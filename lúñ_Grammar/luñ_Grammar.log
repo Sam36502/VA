@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  12 OCT 2021 21:34
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  14 OCT 2021 15:01
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -133,6 +133,6 @@ Here is how much of TeX's memory you used:
  19197 multiletter control sequences out of 15000+600000
  532898 words of font info for 38 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 37i,6n,28p,201b,208s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,7n,28p,201b,208s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/lúñ_Grammar/luñ_Grammar.xdv (17 pages, 70080 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/lúñ_Grammar/luñ_Grammar.xdv (17 pages, 70096 bytes).
