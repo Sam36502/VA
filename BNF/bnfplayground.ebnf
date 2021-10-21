@@ -1,15 +1,16 @@
-<sent> ::= <clause> | <sent> ", " <sent> | <sent> <conj> ", " <sent>
+<sent> ::= <clause> | <sent> ", " <sent> "."? | <sent> " " <conj> ", " <sent> "."?
 
-<clause> ::= <v> " " <np> (" " <np>)* | "ek" | "ke"
+<clause> ::= <np> " " <vp> (" " <np>)* | <vp> " " <np> (" " <np>)* | "ek" | "ke"
 
-<np> ::= <p_pro> | (<a> " ")* <n>
+<np> ::= (<a> " ")* <n>* ("e" | "em" | "es")?
+<vp> ::= (<a> " ")* <v> ("et" | "ef" | "ej")?
 
 <p_pro> ::= "up" | "ut" | "uk" | "uep" | "uet" | "uek"
 <pre> ::= "ju" | "uj" | "ke" | "ek"
 <conj> ::= "uwu"
 
-<n> ::= <cons> ("u" | "ue") <cons> ("e" | "em" | "es")? | <name>
-<v> ::= <cons> ("i" | "y") <cons> ("et" | "ef" | "ej")?
+<n> ::= <cons> ("u" | "ue") <cons> | <p_pro> | <name>
+<v> ::= <cons> ("i" | "y") <cons>
 <a> ::= <cons> ("a" | "oe") <cons>
 
 <name> ::= <vowl> <cons> (<vowl> <cons>)* <vowl>? | <cons> <vowl> (<cons> <vowl>)* <cons>?

@@ -1,5 +1,6 @@
-\contentsline {section}{\numberline {1}Introduction}{2}%
-\contentsline {section}{\numberline {2}Log Entries}{2}%
-\contentsline {subsection}{\numberline {2.1}Tuesday 5\textsuperscript {th} of October}{2}%
-\contentsline {subsection}{\numberline {2.2}Friday 8\textsuperscript {th} of October}{2}%
-\contentsline {subsection}{\numberline {2.3}Saturday 9\textsuperscript {th} of October}{2}%
+\contentsline {section}{\numberline {1}Introduction}{2}{}%
+\contentsline {section}{\numberline {2}Log Entries}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Tuesday 5\textsuperscript {th} of October}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Friday 8\textsuperscript {th} of October}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Saturday 9\textsuperscript {th} of October}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Thursday 21\textsuperscript {st} of October}{2}{}%

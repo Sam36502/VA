@@ -1,9 +1,10 @@
 \documentclass{book}
-\usepackage[utf8]{inputenc}
 \usepackage{tipa}
+\usepackage{natbib}
+\usepackage[utf8]{inputenc}
+
 
 \newcommand{\entry}[4]{\textbf{#1} --- /\textipa{#2}/ \emph{#3} $\bullet$ #4\\}
-\newcommand{\ö}{\textscoelig}
 
 \begin{document}
 
@@ -54,7 +55,7 @@ and no longer useful in day-to-day life. Luñ is the final result of this.
         \hline
         Close       & i $\cdot$ y                   &                   & \textipa{W [2]} $\cdot$ u \\
         Middle      &                               & \textipa{@ [e]}   & \\
-        Open        & \textipa{E} [\ae] $\cdot$ \oe &                   & \\
+        Open        & \textipa{a} [\ae] $\cdot$ \oe &                   & \\
     \end{tabular}
 \end{center}
 
@@ -67,8 +68,11 @@ C is any consonant.
 
 \subsection{Romanisation}
 The romanisation used might seem quite strange to an outside observer, but it was designed to
-emphasize the duality of the main vowels (y, u, a) with their rounded equivalents (ý, ú, á) which
-represents a change in meaning for the roots. Though given that this might be difficult to understand
+emphasize the duality of the main vowels (y, ú, a) with their rounded equivalents (ý, u, á) which
+represents a change in meaning for the roots. Please note that the unrounded 'u' is marked, whereas
+the other two unrounded main vowels aren't, this is due to front vowels typically being unrounded,
+while back vowels are typically rounded \cite{Stevens72}. The more ``typical'' vowel is the ``default'' form,
+while the less typical form is the inflected one. Though given that this might be difficult to understand
 and not as easy to type as it is on a QWERTZ keyboard, a more phonetic alternative is also provided with
 digraph alternatives to the diacritics used.
 
@@ -97,11 +101,11 @@ digraph alternatives to the diacritics used.
         l           & l & l \\
         j           & j & j \\
         a           & a & a \\
-        \ö          & á & ö/oe \\
+        \oe         & á & ö/oe \\
         i           & y & i \\
         y           & ý & ü/ue \\
-        \textipa{W} & u & u \\
-        u           & ú & ú/uu \\
+        \textipa{W} & ú & ue \\
+        u           & u & uu/oo \\
                     &   &  \\
         \hline
     \end{tabular}
@@ -121,16 +125,21 @@ These are a few inflections (mostly prefixes) which can be applied to any root, 
 part of speech. Though these changes may not always yield a result that fully makes sense.
 
 \subsection{Opposites}
-You can form the opposite meaning of a 
+You can form the opposite meaning of a word by rotating the root around it's vowel:
+
+\begin{center}
+    ``Taf'' $\rightarrow$ ``Good'' \\
+    ``Fat'' $\rightarrow$ ``Bad''
+\end{center}
 
 \section{Nouns}
 \subsection{Number}
-In Fluñ, Nouns all have the "u" sound in the root which is unrounded for singular and rounded for plural.
+In Fluñ, Nouns all have the ``u'' sound in the root which is unrounded for singular and rounded for plural.
 For example:
 
 \begin{center}
-    "Mun" $\rightarrow$ "a game" \\
-    "Mún" $\rightarrow$ "many games"
+    ``Mun'' $\rightarrow$ ``a game'' \\
+    ``Mún'' $\rightarrow$ ``many games''
 \end{center}
 
 \subsection{Case}
@@ -149,15 +158,24 @@ Fluñ has 4 grammatical cases which are all formed with a simple suffix accordin
     \end{tabular}
 \end{center}
 
+\subsection{Definitiveness}
+By default, nouns are indefinite and if they are definite, it can be parsed through context,
+but if you wish to define a noun as being definite, you can give it the `-te' prefix.
+
+\begin{center}
+    ``Mun'' $\rightarrow$ ``a game'' \\
+    ``Temun'' $\rightarrow$ ``the game''
+\end{center}
+
 
 \section{Verbs}
 \subsection{Mood}
 Fluñ has two verb moods: Indicative \& Imperative. These are also formed by the root-sound's roundness.
-All Verbs use the "y" sound for their roots. "Y" is indicative, while "ý" is imperative:
+All Verbs use the ``y'' sound for their roots. ``Y'' is indicative, while ``ý'' is imperative:
 
 \begin{center}
-    "ut kyñ" $\rightarrow$ "You go." / "You are going." \\
-    "ut kýñ" $\rightarrow$ "You, go!"
+    ``ut kyñ'' $\rightarrow$ ``You go.'' / ``You are going.'' \\
+    ``ut kýñ'' $\rightarrow$ ``You, go!''
 \end{center}
 
 \subsection{Tense}
@@ -178,23 +196,37 @@ The present tense is the default tense and needn't be marked, but if it is, it e
 the action is taking place now. E.g.:
 
 \begin{center}
-    "ut kyñ kumem?" $\rightarrow$ "Where are you going?" \\
-    "ut kyñef kumem?" $\rightarrow$ "Where are you going now?"
+    ``ut kyñ kumem?'' $\rightarrow$ ``Where are you going?'' \\
+    ``ut kyñef kumem?'' $\rightarrow$ ``Where are you going now?''
 \end{center}
 
 
 \section{Adjectives}
 \subsection{Positive \& Superlative}
-Adjectives in Fluñ all have the "a" sound in their root which is rounded to form the superlative
+Adjectives in Fluñ all have the ``a'' sound in their root which is rounded to form the superlative
 form of the adjective.
 
 \begin{center}
-    "tas pux" $\rightarrow$ "good food" \\
-    "tás pux" $\rightarrow$ "the best food"
+    ``taf pux'' $\rightarrow$ ``good food'' \\
+    ``táf pux'' $\rightarrow$ ``the best food''
+\end{center}
+
+Adjectives may also be used as the verb of the sentence meaning ``to be like <adjective>''. i.e.:
+
+\begin{center}
+    ``ut taf'' $\rightarrow$ ``You're good.'' \\
+    ``mukmun mán'' $\rightarrow$ ``This game is the most fun.''
 \end{center}
 
 \subsection{Comparing}
-To compare two things, you can add the augmentitive prefix to the greater adjective with a 
+To form the comparative of an adjective, you add the augmentative or diminutive prefix, depending
+on whether you want the positive or negative form:
+
+\begin{center}
+    ``upes xul jutaf.'' $\rightarrow$ ``My house is better.'' \\
+    ``ukes puxe ujtaf utes puxem'' $\rightarrow$ ``Their food is worse than your food.'' \\
+    ``ut keñik juwas mun?'' $\rightarrow$ ``Did you get a newer game?''
+\end{center}
 
 
 \chapter{Syntax}
@@ -210,12 +242,12 @@ To compare two things, you can add the augmentitive prefix to the greater adject
 \end{center}
 
 {\Large\textbf{p-x}} \\
-\entry{pux}{"p2x}{n. sg.}{Food, an item of food, a meal}
-\entry{púx}{"pux}{n. pl.}{Food, many items of food}
+\entry{pux}{"pux}{n. sg.}{Food, an item of food, a meal}
+\entry{púx}{"p2x}{n. pl.}{Food, many items of food}
 \entry{pyx}{"pix}{v. ind.}{to eat, to drink, to consume}
 \entry{pýx}{"pyx}{v. imp.}{eat!, drink!, consume!}
 \entry{pax}{"pax}{a. pos.}{edible}
-\entry{páx}{"p\ö x}{a. sup.}{most edible}
+\entry{páx}{"p\oe x}{a. sup.}{most edible}
 
 \begin{center}
     \Huge{T}
@@ -226,11 +258,14 @@ To compare two things, you can add the augmentitive prefix to the greater adject
 \end{center}
 
 {\Large\textbf{k-ñ}} \\
-\entry{kuñ}{"k2N}{n. sg.}{a walk, a motion/movement, a journey}
-\entry{kúñ}{"kuN}{n. pl.}{many walks, many motions/movements, many journeys}
+\entry{kuñ}{"kuN}{n. sg.}{a walk, a motion/movement, a journey}
+\entry{kúñ}{"k2N}{n. pl.}{many walks, many motions/movements, many journeys}
 \entry{kyñ}{"kiN}{v. ind.}{to walk, to move, to go}
 \entry{kýñ}{"kyN}{v. imp.}{walk!, move!, go!}
 \entry{kañ}{"kaN}{a. pos.}{in motion, moving, going, living}
-\entry{káñ}{"k\ö N}{a. sup.}{moving the most, the most alive}
+\entry{káñ}{"k\oe N}{a. sup.}{moving the most, the most alive}
+
+\bibliography{Bibliography}
+\bibliographystyle{plain}
 
 \end{document}
