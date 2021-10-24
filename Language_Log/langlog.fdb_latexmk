@@ -1,11 +1,11 @@
 # Fdb version 3
-["xdvipdfmx"] 1634223367 "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv" "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.pdf" "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog" 1634223368
-  "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv" 1634223367 29920 a24546d44677235f3c5fedfdc5e1a700 "xelatex"
+["xdvipdfmx"] 1634673895 "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv" "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.pdf" "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog" 1634673896
+  "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv" 1634673895 34068 8edb86128e127b24d1c8fe183b847ed7 "xelatex"
   (generated)
   "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.pdf"
-["xelatex"] 1634223367 "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.tex" "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv" "langlog" 1634223368
-  "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.aux" 1634223367 602 0b8aa7eaa5ecccbd37ddd4600e4fdd77 ""
-  "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.tex" 1634223365 2842 d917c67ba2934d11f5a630ec8fe9a6ba ""
+["xelatex"] 1634673893 "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.tex" "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv" "langlog" 1634673896
+  "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.aux" 1634673895 602 0b8aa7eaa5ecccbd37ddd4600e4fdd77 ""
+  "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.tex" 1634673892 3277 6cdf64838495c0fa1778adc4683d6354 ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1589667674 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1589667171 1524 4414a8315f39513458b80dfc63bff03a ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1589667171 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -24,13 +24,13 @@
   "c:/texlive/2020/texmf-dist/web2c/texmf.cnf" 1589668006 39451 60d7debd9ef8ece44cbe965493576c2d ""
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1589669799 4770068 791a4f4739d32d0c0b8da884d3c29f2d ""
   "c:/texlive/2020/texmf.cnf" 1589669697 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "langlog.aux" 1634223367 602 0b8aa7eaa5ecccbd37ddd4600e4fdd77 "xelatex"
-  "langlog.tex" 1634223365 2842 d917c67ba2934d11f5a630ec8fe9a6ba ""
-  "langlog.toc" 1634223367 386 3bfb2ed55cef080a5721fc740a4e88f3 "xelatex"
+  "langlog.aux" 1634673895 602 0b8aa7eaa5ecccbd37ddd4600e4fdd77 "xelatex"
+  "langlog.tex" 1634673892 3277 6cdf64838495c0fa1778adc4683d6354 ""
+  "langlog.toc" 1634673895 386 3bfb2ed55cef080a5721fc740a4e88f3 "xelatex"
   (generated)
   "langlog.toc"
-  "langlog.xdv"
   "langlog.aux"
   "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.log"
   "langlog.log"
+  "langlog.xdv"
   "c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv"
