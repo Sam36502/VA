@@ -1,0 +1,181 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  24 OCT 2021 18:19
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.tex
+(c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-11> (c:/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@chapter=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (c:/texlive/2020/texmf-dist/tex/latex/tipa/tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+ (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+ (c:/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+))) (c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count172
+) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count173
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count174
+\g__pdf_backend_annotation_int=\count175
+) (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.aux)
+\openout1 = `Sutlun_Grammar.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9.
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 9.
+ (c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 9.
+ [1
+
+] [2
+
+] (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `Sutlun_Grammar.toc'.
+
+ [3] [4] [5
+
+] [6]
+Chapter 1.
+LaTeX Font Info:    Trying to load font information for T3+lmr on input line 46.
+LaTeX Font Info:    No file T3lmr.fd. on input line 46.
+
+LaTeX Font Warning: Font shape `T3/lmr/m/n' undefined
+(Font)              using `T3/cmr/m/n' instead on input line 46.
+
+[7
+
+] [8]
+Chapter 2.
+[9
+
+] [10] [11] [12
+
+]
+Chapter 3.
+[13] [14
+
+]
+Chapter 4.
+[15] [16
+
+] [17] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 242--250
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--272
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--296
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 297--305
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--336
+
+ []
+
+[20] (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.bbl [21] [22
+
+]) [23] (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1857 strings out of 479294
+ 25555 string characters out of 5884395
+ 263588 words of memory out of 5000000
+ 19532 multiletter control sequences out of 15000+600000
+ 532898 words of font info for 38 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 37i,7n,28p,212b,208s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv (23 pages, 108744 bytes).
