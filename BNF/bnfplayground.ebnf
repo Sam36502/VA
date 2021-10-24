@@ -1,0 +1,19 @@
+<sent> ::= <clause> | <sent> ", " <sent> "."? | <sent> " " <conj> ", " <sent> "."?
+
+<clause> ::= <np> " " <vp> (" " <np>)* | <vp> " " <np> (" " <np>)* | "ek" | "ke"
+
+<np> ::= (<a> " ")* <n>* ("e" | "em" | "es")?
+<vp> ::= (<a> " ")* <v> ("et" | "ef" | "ej")?
+
+<p_pro> ::= "up" | "ut" | "uk" | "uep" | "uet" | "uek"
+<pre> ::= "ju" | "uj" | "ke" | "ek"
+<conj> ::= "uwu"
+
+<n> ::= <cons> ("u" | "ue") <cons> | <p_pro> | <name>
+<v> ::= <cons> ("i" | "y") <cons>
+<a> ::= <cons> ("a" | "oe") <cons>
+
+<name> ::= <vowl> <cons> (<vowl> <cons>)* <vowl>? | <cons> <vowl> (<cons> <vowl>)* <cons>?
+
+<cons> ::= "p" | "t" | "k" | "m" | "n" | "ng" | "f" | "s" | "x" | "w" | "l" | "j"
+<vowl> ::= "i" | "y" | "u" | "ue" | "a" | "oe" | "e"
