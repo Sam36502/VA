@@ -5,3 +5,4 @@
 \contentsline {subsection}{\numberline {2.3}Saturday 9\textsuperscript {th} of October}{2}%
 \contentsline {subsection}{\numberline {2.4}Thursday 21\textsuperscript {st} of October}{3}%
 \contentsline {subsection}{\numberline {2.5}Sunday 24\textsuperscript {th} of October}{3}%
+\contentsline {subsection}{\numberline {2.6}Friday 30\textsuperscript {th} of October}{3}%

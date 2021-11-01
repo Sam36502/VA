@@ -1,25 +1,32 @@
-\contentsline {section}{\numberline {0.1}Introduction}{4}{}%
-\contentsline {part}{I\hspace {1em}Grammar}{5}{}%
-\contentsline {chapter}{\numberline {1}Phonology}{7}{}%
-\contentsline {section}{\numberline {1.1}Consonants}{7}{}%
-\contentsline {section}{\numberline {1.2}Vowels}{7}{}%
-\contentsline {section}{\numberline {1.3}Phonotactics}{7}{}%
-\contentsline {section}{\numberline {1.4}Orthography}{7}{}%
-\contentsline {subsection}{\numberline {1.4.1}Romanisation}{7}{}%
-\contentsline {subsection}{\numberline {1.4.2}Writing System}{8}{}%
-\contentsline {chapter}{\numberline {2}Morphology}{9}{}%
-\contentsline {section}{\numberline {2.1}Universal Inflections}{9}{}%
-\contentsline {subsection}{\numberline {2.1.1}Opposites}{9}{}%
-\contentsline {section}{\numberline {2.2}Nouns}{9}{}%
-\contentsline {subsection}{\numberline {2.2.1}Number}{9}{}%
-\contentsline {subsection}{\numberline {2.2.2}Case}{9}{}%
-\contentsline {subsection}{\numberline {2.2.3}Definitiveness}{10}{}%
-\contentsline {section}{\numberline {2.3}Verbs}{10}{}%
-\contentsline {subsection}{\numberline {2.3.1}Mood}{10}{}%
-\contentsline {subsection}{\numberline {2.3.2}Tense}{10}{}%
-\contentsline {section}{\numberline {2.4}Adjectives}{10}{}%
-\contentsline {subsection}{\numberline {2.4.1}Positive \& Superlative}{10}{}%
-\contentsline {subsection}{\numberline {2.4.2}Comparing}{11}{}%
-\contentsline {chapter}{\numberline {3}Syntax}{13}{}%
-\contentsline {chapter}{\numberline {4}Sentence Order}{15}{}%
-\contentsline {part}{II\hspace {1em}Lexicon}{17}{}%
+\contentsline {section}{\numberline {0.1}Introduction}{5}%
+\contentsline {part}{I\hspace {1em}Grammar}{7}%
+\contentsline {chapter}{\numberline {1}Phonology}{9}%
+\contentsline {section}{\numberline {1.1}Consonants}{9}%
+\contentsline {section}{\numberline {1.2}Vowels}{9}%
+\contentsline {section}{\numberline {1.3}Phonotactics}{9}%
+\contentsline {section}{\numberline {1.4}Orthography}{9}%
+\contentsline {subsection}{\numberline {1.4.1}Romanisation}{9}%
+\contentsline {subsection}{\numberline {1.4.2}Writing System}{10}%
+\contentsline {chapter}{\numberline {2}Morphology}{11}%
+\contentsline {section}{\numberline {2.1}Universal Inflections}{11}%
+\contentsline {subsection}{\numberline {2.1.1}Opposites}{11}%
+\contentsline {subsection}{\numberline {2.1.2}Negation}{11}%
+\contentsline {subsection}{\numberline {2.1.3}Binary Question Prefix}{12}%
+\contentsline {section}{\numberline {2.2}Nouns}{12}%
+\contentsline {subsection}{\numberline {2.2.1}Number}{12}%
+\contentsline {subsection}{\numberline {2.2.2}Case}{12}%
+\contentsline {subsection}{\numberline {2.2.3}Definitiveness}{12}%
+\contentsline {section}{\numberline {2.3}Verbs}{12}%
+\contentsline {subsection}{\numberline {2.3.1}Mood}{12}%
+\contentsline {subsection}{\numberline {2.3.2}Tense}{13}%
+\contentsline {section}{\numberline {2.4}Adjectives}{13}%
+\contentsline {subsection}{\numberline {2.4.1}Positive \& Superlative}{13}%
+\contentsline {subsection}{\numberline {2.4.2}Comparing}{13}%
+\contentsline {chapter}{\numberline {3}Syntax}{15}%
+\contentsline {section}{\numberline {3.1}Phrases}{15}%
+\contentsline {section}{\numberline {3.2}Conjunctions}{15}%
+\contentsline {section}{\numberline {3.3}Compounds}{15}%
+\contentsline {section}{\numberline {3.4}Sentence Order}{15}%
+\contentsline {section}{\numberline {3.5}Conditionals}{16}%
+\contentsline {section}{\numberline {3.6}Subordinate Clauses}{16}%
+\contentsline {part}{II\hspace {1em}Lexicon}{17}%

@@ -1,8 +1,8 @@
 \documentclass{book}
+\usepackage{gb4e}
 \usepackage{tipa}
 \usepackage{natbib}
 \usepackage[utf8]{inputenc}
-
 
 \newcommand{\entry}[4]{\textbf{#1} -- /\textipa{#2}/ \emph{#3} $\bullet$ #4\\}
 
@@ -16,11 +16,19 @@
 \Huge{DICTIONARY}\\
 \huge{of}\\
 \Huge{Sutlun}\\
-\Large{Redo Title Page at some point...}\\
+\Large{
+-- Redo Title Page at some point...}\\
 \large{By Samuel Pearce}\\
 \vfill\null
 \endgroup
 \thispagestyle{empty}
+
+-- TODO Tuesday:
+-- Make sure nothing is ambiguous
+-- Convert examples to glosses
+-- Unfinished Syntax sections
+-- Add missing words
+-- Try translating NW\&S again?
 
 \tableofcontents
 \pagebreak
@@ -123,12 +131,42 @@ These are a few inflections (mostly prefixes) which can be applied to any root, 
 part of speech. Though these changes may not always yield a result that fully makes sense.
 
 \subsection{Opposites}
-You can form the opposite meaning of a word by rotating the root around it's vowel:
+You can form the opposite meaning of a word by flipping the root's consonants:
 
 \begin{center}
-    ``Taf'' $\rightarrow$ ``Good'' \\
-    ``Fat'' $\rightarrow$ ``Bad''
+    ``taf'' $\rightarrow$ ``good'' \\
+    ``fat'' $\rightarrow$ ``bad''
 \end{center}
+
+\subsection{Negation}
+To negate anything, simply prefix it with ``ke-''. For nouns, this forms the phrase ``not X'', where X
+is the negated noun e.g.
+
+\begin{center}
+    ``pux'' $\rightarrow$ ``food'' \\
+    ``kepux'' $\rightarrow$ ``not food''
+\end{center}
+
+For Verbs, this means to not do the action:
+
+\begin{center}
+    ``pýx'' $\rightarrow$ ``eat'' \\
+    ``kepýx'' $\rightarrow$ ``don't eat''
+\end{center}
+
+And for adjectives, it means not like the adjective:
+
+\begin{center}
+    ``pax'' $\rightarrow$ ``delicious'' \\
+    ``kepax'' $\rightarrow$ ``not delicious''
+\end{center}
+
+It is important to bear in mind the difference between negation and opposites, as they often
+seem to share the same meaning, but ``not good'' is not the same as ``bad''.
+
+\subsection{Binary Question Prefix}
+-- Add `ek-' to verb makes it a yes/no question
+
 
 \section{Nouns}
 \subsection{Number}
@@ -136,12 +174,12 @@ In FSutlun, Nouns all have the ``u'' sound in the root which is unrounded for si
 For example:
 
 \begin{center}
-    ``Mun'' $\rightarrow$ ``a game'' \\
-    ``Mún'' $\rightarrow$ ``many games''
+    ``mun'' $\rightarrow$ ``a game'' \\
+    ``mún'' $\rightarrow$ ``many games''
 \end{center}
 
 \subsection{Case}
-FSutlun has 4 grammatical cases which are all formed with a simple suffix according to the following table:
+Sutlun has 4 grammatical cases which are all formed with a simple suffix according to the following table:
 
 \begin{center}
     \begin{tabular}{|r|l|l|}
@@ -161,8 +199,8 @@ By default, nouns are indefinite and if they are definite, it can be parsed thro
 but if you wish to define a noun as being definite, you can give it the `-te' prefix.
 
 \begin{center}
-    ``Mun'' $\rightarrow$ ``a game'' \\
-    ``Temun'' $\rightarrow$ ``the game''
+    ``mun'' $\rightarrow$ ``a game'' \\
+    ``temun'' $\rightarrow$ ``the game''
 \end{center}
 
 
@@ -209,7 +247,7 @@ form of the adjective.
     ``táf pux'' $\rightarrow$ ``the best food''
 \end{center}
 
-Adjectives may also be used as the verb of the sentence meaning ``to be like <adjective>''. i.e.:
+Adjectives may also be used alone in the position of the verb of the sentence to mean ``to be like X''. i.e.:
 
 \begin{center}
     ``ut taf'' $\rightarrow$ ``You're good.'' \\
@@ -228,10 +266,54 @@ on whether you want the positive or negative form:
 
 
 \chapter{Syntax}
+\section{Phrases}
+All forms of phrase follow the same order for dependents:
 
-\chapter{Sentence Order}
-to add: mik (to be) *may* be used as a copula, but is not required
+\begin{center}
+    Preposition/Demonstrative $\rightarrow$ Posessor $\rightarrow$ Adjectives (No internal order) $\rightarrow$ HEAD
+\end{center}
 
+An example of all of these together would be:
+
+\begin{center}
+    ``xel upes taf jumukmajxul'' $\rightarrow$ ``In my good, big house.''
+\end{center}
+
+\section{Conjunctions}
+-- xel -> and
+
+\section{Compounds}
+-- What order things are compounded
+
+\section{Sentence Order}
+The most common order for a sentence is SVO in Sutlun, but because it has case marking, the
+order is almost completely free:
+
+\begin{exe}
+    \ex
+    \gll ukes majxulem up kin puxe \\
+    3S-GEN house-DAT 1S-NOM move-to food-ACC \\
+    \glt ``I take food to his house.''
+\end{exe}
+
+The only exception is that a genetive must always be placed immediately before its posessum:
+
+\begin{center}
+    \begin{exe}
+        \ex ukes majxulem up ...
+        \ex[*] {majxulem up ukes ...}
+    \end{exe}
+\end{center}
+
+\section{Conditionals}
+-- A uwu, B
+
+\section{Subordinate Clauses}
+-- en is like ni
+
+\begin{center}
+    ``xel upes taf jumajxul'' $\rightarrow$ ``In my good, big house.''
+\end{center}
 
 \part{Lexicon}
 

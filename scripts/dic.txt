@@ -13,3 +13,7 @@ x_l
 w_n
 s_t
 l_m
+p_n
+m_j
+s_n
+w_s
