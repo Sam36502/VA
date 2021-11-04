@@ -1,21 +1,34 @@
-k_n;E1;movement toward
-n_k;E1;movement away from
+k_n;E1;movement toward, go
+n_k;E1;movement away from, come
 k_m;E2;query, what
-m_k;E2;
-p_x;
-m_n;
-n_f;
-w_s;
-j_f;
-f_k;
-l_n;
-t_f;
-p_l;
-x_l;
-w_n;
-s_t;
-l_m;
-p_n;
-m_j;
-s_n;
-w_s;
+m_k;E2;demonstrative, that
+p_x;EX;food, eat
+x_p;EX;expell, urinate, excrete
+m_n;EX;entertainment, play, watch, read
+n_m;EX;work, task, boring
+n_f;EX;rope, string, flexible
+f_n;EX;stick, staff
+w_s;EX;new, young, fresh
+s_w;EX;old, time, mature
+j_f;EX;expletive, fuck, shit
+f_j;EX;joyous expression, yay
+f_k;EX;thing, exist
+k_f;EX;non-existant, fantasy
+l_n;EX;word, meaning
+n_l;EX;question, meaningless
+t_f;EX;good, like
+f_t;EX;bad, dislike
+x_l;EX;container, building, have, (close)
+l_x;EX;outside world, exit, open
+w_n;EX;emotion, excitement
+n_w;EX;apathy, calm
+s_t;EX;noise, sound, wind
+t_s;EX;quiet, still
+l_m;EX;solid, strong, heavy, stone
+m_l;EX;soft, weak, broken, powder, clay, light
+p_n;EX;same, copy
+n_p;EX;different, compare
+s_n;EX;knowledge, wisdom
+n_s;EX;stupidity, foolish, silly
+f_l;EX;hot, heat, fire
+l_f;EX;cold, cool, ice

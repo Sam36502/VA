@@ -5,12 +5,16 @@
 
 ]]--
 
+--- CONSTANTS
+
+DICTIONARY_FILE = "dictionary.csv"
+
 --- FUNCTIONS
 
 -- Checks if a table contains an element
 local function contains(table, value)
     for _,v in pairs(table) do
-        if v == value then
+        if v.root == value then
             return true
         end
     end
@@ -20,6 +24,15 @@ end
 -- Picks a random element from a table
 local function randLetter(table)
     return table[math.random(1, #table)]
+end
+
+-- Splits a string on the delimiter
+function split(s, delimiter)
+    result = {};
+    for match in (s..delimiter):gmatch("(.-)"..delimiter) do
+        table.insert(result, match);
+    end
+    return result;
 end
 
 --- PROGRAM START
@@ -34,19 +47,15 @@ math.random()
 math.random()
 
 -- Load words
-for r in io.lines("dic.txt") do
-    roots[#roots+1] = r
+for r in io.lines(DICTIONARY_FILE) do
+    parts = split(r, ';')
+    roots[#roots+1] = {
+        root=parts[1],
+        mode=parts[2],
+        meaning=parts[3]
+    }
 end
 print("Loaded "..#roots.." roots.")
-
--- Generate the opposites
-allRoots = {}
-for _, r in ipairs(roots) do
-    allRoots[#allRoots+1] = r
-    allRoots[#allRoots+1] = string.reverse(r)
-end
-roots = allRoots
-print("Generated "..(#allRoots/2).." Opposites")
 
 print("How many new roots to generate?")
 io.write(" > ")
