@@ -1,11 +1,11 @@
 k_n;E1;movement toward, go
 n_k;E1;movement away from, come
-k_m;E2;query, what
-m_k;E2;demonstrative, that
+k_m;E1;query, what
+m_k;E1;demonstrative, that
 p_x;EX;food, eat
 x_p;EX;expell, urinate, excrete
 m_n;EX;entertainment, play, watch, read
-n_m;EX;work, task, boring
+n_m;EX;work, must, task, boring
 n_f;EX;rope, string, flexible
 f_n;EX;stick, staff
 w_s;EX;new, young, fresh
@@ -32,3 +32,9 @@ s_n;EX;knowledge, wisdom
 n_s;EX;stupidity, foolish, silly
 f_l;EX;hot, heat, fire
 l_f;EX;cold, cool, ice
+j_n;EX;person, creature, to live, living, vital
+n_j;EX;corpse, dead, to die
+k_l;EX;clothes, to cover, covered
+l_k;EX;uncovered, naked, bare
+w_t;EX;north, travel north
+t_w;EX;south, travel south
