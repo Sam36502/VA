@@ -9,3 +9,4 @@
 \contentsline {subsection}{\numberline {2.7}Monday 1\textsuperscript {st} of November}{3}%
 \contentsline {subsection}{\numberline {2.8}Tuesday 2\textsuperscript {nd} of November}{3}%
 \contentsline {subsection}{\numberline {2.9}Wednesday 3\textsuperscript {rd} of November}{4}%
+\contentsline {subsection}{\numberline {2.10}Tuesday 9\textsuperscript {th} of November}{4}%
