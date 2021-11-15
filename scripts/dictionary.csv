@@ -38,3 +38,9 @@ k_l;EX;clothes, to cover, covered
 l_k;EX;uncovered, naked, bare
 w_t;EX;north, travel north
 t_w;EX;south, travel south
+t_l;EX;create, make
+l_t;EX;destroy, break
+t_x;EX;start, beginning, first
+x_t;EX;end, finish, last
+f_m;EX;hide, cover, secret
+m_f;EX;reveal, discover
