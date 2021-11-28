@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  1 NOV 2021 17:49
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  27 NOV 2021 16:09
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -120,11 +120,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ] [7] [8]
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for T3+lmr on input line 54.
-LaTeX Font Info:    No file T3lmr.fd. on input line 54.
+LaTeX Font Info:    Trying to load font information for T3+lmr on input line 53.
+LaTeX Font Info:    No file T3lmr.fd. on input line 53.
 
 LaTeX Font Warning: Font shape `T3/lmr/m/n' undefined
-(Font)              using `T3/cmr/m/n' instead on input line 54.
+(Font)              using `T3/cmr/m/n' instead on input line 53.
 
 [9
 
@@ -139,57 +139,57 @@ Chapter 3.
 [15] [16] [17
 
 ] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 324--332
+Underfull \hbox (badness 10000) in paragraph at lines 323--331
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 337--345
+Underfull \hbox (badness 10000) in paragraph at lines 336--344
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--354
+Underfull \hbox (badness 10000) in paragraph at lines 345--353
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 359--368
+Underfull \hbox (badness 10000) in paragraph at lines 358--367
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--378
+Underfull \hbox (badness 10000) in paragraph at lines 368--377
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 379--387
+Underfull \hbox (badness 10000) in paragraph at lines 378--386
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 392--400
+Underfull \hbox (badness 10000) in paragraph at lines 391--399
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 401--409
+Underfull \hbox (badness 10000) in paragraph at lines 400--408
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--418
+Underfull \hbox (badness 10000) in paragraph at lines 409--417
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 423--431
+Underfull \hbox (badness 10000) in paragraph at lines 422--430
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--440
+Underfull \hbox (badness 10000) in paragraph at lines 431--439
 
  []
 
@@ -209,4 +209,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  37i,7n,28p,212b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv (23 pages, 137820 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv (23 pages, 137520 bytes).

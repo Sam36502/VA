@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  26 NOV 2021 00:39
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  27 NOV 2021 15:59
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -76,14 +76,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1
 
-] [2] [3] [4] (c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.aux) ) 
+] [2] [3] [4] [5] (c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.aux) ) 
 Here is how much of TeX's memory you used:
  469 strings out of 479294
  9351 string characters out of 5884395
- 253656 words of memory out of 5000000
+ 252656 words of memory out of 5000000
  18164 multiletter control sequences out of 15000+600000
  535146 words of font info for 42 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 25i,6n,21p,217b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,6n,21p,218b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv (4 pages, 93460 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/Language_Log/langlog.xdv (5 pages, 98584 bytes).
