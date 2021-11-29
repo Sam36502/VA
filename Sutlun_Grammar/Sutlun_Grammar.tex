@@ -1,8 +1,11 @@
 \documentclass{book}
+\usepackage{graphicx}
 \usepackage{gb4e}
 \usepackage{tipa}
 \usepackage{natbib}
 \usepackage[utf8]{inputenc}
+
+\graphicspath{ {../images/} }
 
 \newcommand{\entry}[4]{\textbf{#1} -- /\textipa{#2}/ \emph{#3} $\bullet$ #4\\}
 
@@ -16,28 +19,15 @@
 \Huge{DICTIONARY}\\
 \huge{of}\\
 \Huge{Sutlun}\\
-\Large{
--- Redo Title Page at some point...}\\
+\vspace{1cm}
 \large{By Samuel Pearce}\\
 \vfill\null
 \endgroup
 \thispagestyle{empty}
 
--- TODO Tuesday:
--- Make sure nothing is ambiguous
--- Convert examples to glosses
--- Unfinished Syntax sections
--- Add missing words
-
 \tableofcontents
 \pagebreak
 
-\section{Introduction}
-Sutlun is a constructed language, or conlang, which was created in 2021 for a school
-assignment as an experiment. The goal was to create a language which was as small and as
-easy to learn as possible. It began as a series of small languages, each being smaller
-than the last. I was looking for the point where a language becomes impractically small
-and no longer useful in day-to-day life. Sutlun is the final result of this.
 
 
 
@@ -55,6 +45,7 @@ and no longer useful in day-to-day life. Sutlun is the final result of this.
     \end{tabular}
 \end{center}
 
+
 \section{Vowels}
 \begin{center}
     \begin{tabular}{l|c|c|c}
@@ -66,13 +57,53 @@ and no longer useful in day-to-day life. Sutlun is the final result of this.
     \end{tabular}
 \end{center}
 
+
 \section{Phonotactics}
 In Sutlun, roots are bi-consonantal and the vowel determines what part of speech the word is.
-For these root words, the consonant structure is \textbf{CVC} Where V is any vowel except /\textipa{@}/,
-C is any consonant.
+For these root words, the consonant structure is \textbf{CVC} Where V is any vowel except /\textipa{@}/
+and C is any consonant. The root word is also always stressed. This applies for compounds as well:
+
+\begin{center}
+    ``jupympul'' $\rightarrow$ \textipa{/ju.pim."pul/} $\rightarrow$ ``Heavy rain''
+\end{center}
+
+Roots are the core of lexicon, there are only a handful of words which are not roots. These include:
+\begin{itemize}
+    \item `ek' \& `ke' are typically used as prefixes to form the negative form and the binary question
+    form of words, but when used alone they stand for `no' \& `yes', respectively.
+    \item `uwu' acts as the conditional marker, it's placed at the end of a sentence to indicate that
+    the next sentence is only true if the first one is.
+    \item `awa' acts as the negative conditional marker, like `but' in English.
+    \item `en' is a stand-in for the next clause. It allows relative clauses by
+    essentially saying `this:'. It is treated like a noun and can have the same
+    suffixes applied to it.
+\end{itemize}
+
+Here are some examples to clarify the meaning of the ``grammatical words''
+
+\begin{exe}
+    \ex
+    \gll Ut ketyf puxe? ek.\\
+    2S.NOM QUE.like food.ACC? no \\
+    \glt ``Do you want some food? No.''
+\end{exe}
+
+\begin{exe}
+    \ex
+    \gll Pampul pym uwu, up fatsyn.\\
+    down-water.NOM fall COND, 1S.NOM bad-feel. \\
+    \glt ``If it rains, I'll be sad.''
+\end{exe}
+
+\begin{exe}
+    \ex
+    \gll Up tyf ene, úp kin wukfusem.\\
+    1S.NOM like this.ACC, 1P.NOM go plant-place.DAT. \\
+    \glt ``I like it when we walk in the park.''
+\end{exe}
+
 
 \section{Orthography}
-
 \subsection{Romanisation}
 The romanisation used might seem quite strange to an outside observer, but it was designed to
 emphasize the duality of the main vowels (y, ú, a) with their rounded equivalents (ý, u, á) which
@@ -123,6 +154,14 @@ feedback that confirmed this fear. So I decided to go for a simpler alphabetic s
 system. I definitely wanted to make it a featural system though, because I had layed the phonemes out
 in a systematic manner for this purpose.
 
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.5]{Lumlun-Diagram.png}
+	\caption{A diagram of all the letters in Lumlun, the writing system for Sutlun}
+	\label{lumlun-diagram}
+\end{figure}
+
+
 
 \chapter{Morphology}
 \section{Universal Inflections}
@@ -138,38 +177,46 @@ You can form the opposite meaning of a word by flipping the root's consonants:
 \end{center}
 
 \subsection{Negation}
-To negate anything, simply prefix it with ``ke-''. For nouns, this forms the phrase ``not X'', where X
+To negate anything, simply prefix it with ``ek-''. For nouns, this forms the phrase ``not X'', where X
 is the negated noun e.g.
 
 \begin{center}
     ``pux'' $\rightarrow$ ``food'' \\
-    ``kepux'' $\rightarrow$ ``not food''
+    ``ekpux'' $\rightarrow$ ``not food''
 \end{center}
 
 For Verbs, this means to not do the action:
 
 \begin{center}
     ``pýx'' $\rightarrow$ ``eat'' \\
-    ``kepýx'' $\rightarrow$ ``don't eat''
+    ``ekpýx'' $\rightarrow$ ``don't eat''
 \end{center}
 
 And for adjectives, it means not like the adjective:
 
 \begin{center}
     ``pax'' $\rightarrow$ ``delicious'' \\
-    ``kepax'' $\rightarrow$ ``not delicious''
+    ``ekpax'' $\rightarrow$ ``not delicious''
 \end{center}
 
 It is important to bear in mind the difference between negation and opposites, as they often
 seem to share the same meaning, but ``not good'' is not the same as ``bad''.
 
 \subsection{Binary Question Prefix}
--- Add `ek-' to verb makes it a yes/no question
+If you wish to ask a binary (yes or no) question, you can simply add the `ke-' prefix to the
+verb, or to any word you wish to emphasize. E.g.:
+
+\begin{exe}
+    \ex
+    \gll Ut ketyf múne?\\
+    2S.NOM QUE-like game.P.ACC? \\
+    \glt ``Do you like games?''
+\end{exe}
 
 
 \section{Nouns}
 \subsection{Number}
-In FSutlun, Nouns all have the ``u'' sound in the root which is unrounded for singular and rounded for plural.
+In Sutlun, Nouns all have the ``u'' sound in the root which is unrounded for singular and rounded for plural.
 For example:
 
 \begin{center}
@@ -205,7 +252,7 @@ but if you wish to define a noun as being definite, you can give it the `-te' pr
 
 \section{Verbs}
 \subsection{Mood}
-FSutlun has two verb moods: Indicative \& Imperative. These are also formed by the root-sound's roundness.
+Sutlun has two verb moods: Indicative \& Imperative. These are also formed by the root-sound's roundness.
 All Verbs use the ``y'' sound for their roots. ``Y'' is indicative, while ``ý'' is imperative:
 
 \begin{center}
@@ -214,7 +261,7 @@ All Verbs use the ``y'' sound for their roots. ``Y'' is indicative, while ``ý''
 \end{center}
 
 \subsection{Tense}
-FSutlun has 3 tenses which are all formed with a simple suffix according to the following table:
+Sutlun has 3 tenses which are all formed with a simple suffix according to the following table:
 
 \begin{center}
     \begin{tabular}{|r|l|r|l|}
@@ -238,7 +285,7 @@ the action is taking place now. E.g.:
 
 \section{Adjectives}
 \subsection{Positive \& Superlative}
-Adjectives in FSutlun all have the ``a'' sound in their root which is rounded to form the superlative
+Adjectives in Sutlun all have the ``a'' sound in their root which is rounded to form the superlative
 form of the adjective.
 
 \begin{center}
@@ -264,6 +311,31 @@ on whether you want the positive or negative form:
 \end{center}
 
 
+\section{Other}
+Some roots also allow a fourth option using `e' as the vowel. This changes meaning from word to word
+and is really the only exception, but it is possible to use the language without the ``e-words''.
+
+For some words the ``e-form'' is a preposition for when the implied preposition is not clear, or when
+it needs to be overridden. e.g.:
+
+\begin{exe}
+    \ex
+    \gll Up puxe kin nek úkem.\\
+    1S.NOM food.ACC from.PREP 3P.DAT. \\
+    \glt ``I bring food from them.''
+\end{exe}
+
+For other words, this is more of an expletive, for example ``kem'' which acts a general exclamation
+of surprise, i.e. ``What!?''
+
+Some e-words are conjugations, such as ``xel'' which I've interpreted to mean ``and''.
+E.g.: ``Up xel ut'' $\rightarrow$ ``You and I''.
+
+The meaning of these words is fairly flexible though and can be left to interpretation. If I've seen
+a useful possible meaning, though, I have noted it in the dictionary at the end of this grammar.
+
+
+
 \chapter{Syntax}
 \section{Phrases}
 All forms of phrase follow the same order for dependents:
@@ -275,14 +347,16 @@ All forms of phrase follow the same order for dependents:
 An example of all of these together would be:
 
 \begin{center}
-    ``xel upes taf jumukmajxul'' $\rightarrow$ ``In my good, big house.''
+    ``xel upes taf jumuklumxul'' $\rightarrow$ ``In my good, big house.''
 \end{center}
 
-\section{Conjunctions}
--- xel -> and
-
 \section{Compounds}
--- What order things are compounded
+Compounds can be formed from any type of speech with only the last determining what
+the whole compound is. E.g.: ``jupympul'' $\rightarrow$ ``big falling water'' $\rightarrow$ ``heavy rain''.
+
+At the core of the compund is the grouping of roots with no suffixes or prefixes. Then suffixes and
+preixes may be added on to the compound as a whole.
+
 
 \section{Sentence Order}
 The most common order for a sentence is SVO in Sutlun, but because it has case marking, the
@@ -290,29 +364,62 @@ order is almost completely free:
 
 \begin{exe}
     \ex
-    \gll ukes majxulem up kin puxe \\
+    \gll ukes lumxulem up kin puxe \\
     3S-GEN house-DAT 1S-NOM move-to food-ACC \\
     \glt ``I take food to his house.''
 \end{exe}
 
-The only exception is that a genetive must always be placed immediately before its posessum:
+The only exception is that a genitive must always be placed immediately before its posessum, unless there
+is only one noun in the sentence:
 
 \begin{center}
     \begin{exe}
-        \ex ukes majxulem up ...
-        \ex[*] {majxulem up ukes ...}
+        \ex ukes lumxulem up ...
+        \ex[*] {lumxulem up ukes ...}
     \end{exe}
 \end{center}
 
+
 \section{Conditionals}
--- A uwu, B
+Conditionals, as have been mentioned previously are quite simple:
+To indicate that a clause is predicated on a previous clause, you
+can join them with ``uwu,'':
+
+\begin{exe}
+    \ex
+    \gll Pampul pym uwu, up fatsyn.\\
+    down-water.NOM fall COND, 1S.NOM bad-feel. \\
+    \glt ``If it rains, I'll be sad.''
+\end{exe}
+
 
 \section{Subordinate Clauses}
--- en is like ni
+As also previously mentioned, subordinate clauses are created by
+using ``en'' as a stand-in noun representing the succeeding clause:
 
-\begin{center}
-    ``xel upes taf jumajxul'' $\rightarrow$ ``In my good, big house.''
-\end{center}
+\begin{exe}
+    \ex
+    \gll Up tyf ene, úp kin wukfusem.\\
+    1S.NOM like this.ACC, 1P.NOM go plant-place.DAT. \\
+    \glt ``I like it when we walk in the park.''
+\end{exe}
+
+`En' can also be used to mean the previous sentence or statement, generally when it's 
+used at the beginning of a sentence. The author/speaker should make it clear which is
+meant through context.
+
+If no `en' or other conjunction is used in the sentence before a clause,
+it counts as being grouped with the previous phrase.
+E.g.:
+
+\begin{exe}
+    \ex
+    \gll Úk sutlynet ene úkem, úk týlej wamlume, úk jufýlej wamlume.\\
+    1P.NOM air-word.PST this.ACC 1P.DAT, 1P.NOM make.IMP.FUT flat-stone.ACC, 1P.NOM AUG.heat.IMP.FUT flat-stone.ACC. \\
+    \glt ``We said to ourselves: `we shall make bricks and we shall fire the bricks well.'''
+\end{exe}
+
+
 
 \part{Lexicon}
 

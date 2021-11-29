@@ -1,22 +1,23 @@
 # Fdb version 3
-["bibtex Sutlun_Grammar"] 1635785332 "Sutlun_Grammar.aux" "Sutlun_Grammar.bbl" "Sutlun_Grammar" 1638025784
+["bibtex Sutlun_Grammar"] 1638128095 "Sutlun_Grammar.aux" "Sutlun_Grammar.bbl" "Sutlun_Grammar" 1638219196
   "Bibliography.bib" 1635076616 354 039e5e188b79c2a8a03213ee1738f789 ""
-  "Sutlun_Grammar.aux" 1638025782 3605 123afa451dd4211900b769566113fc67 "xelatex"
+  "Sutlun_Grammar.aux" 1638219194 3705 99287b59a7ca793af5f92f537ebfe8e5 "xelatex"
   "c:/texlive/2020/texmf-dist/bibtex/bst/base/plain.bst" 1589663419 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   (generated)
   "Sutlun_Grammar.blg"
   "Sutlun_Grammar.bbl"
-["xdvipdfmx"] 1638025783 "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv" "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.pdf" "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar" 1638025784
-  "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv" 1638025782 137520 9b10597b8ad1f7428553db5ef429a510 "xelatex"
+["xdvipdfmx"] 1638219195 "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv" "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.pdf" "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar" 1638219196
+  "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv" 1638219194 167204 33f175c73ab4443c1494f7d67e4853cd "xelatex"
   (generated)
   "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.pdf"
-["xelatex"] 1638025782 "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.tex" "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv" "Sutlun_Grammar" 1638025784
-  "Sutlun_Grammar.aux" 1638025782 3605 123afa451dd4211900b769566113fc67 "xelatex"
-  "Sutlun_Grammar.bbl" 1635785332 309 fca4b58be24803dc1d7557a6b2ce8ceb "bibtex Sutlun_Grammar"
-  "Sutlun_Grammar.tex" 1638025781 15783 70388858c5c1322fdbdb5279dcbe619a ""
-  "Sutlun_Grammar.toc" 1638025782 1905 8aaa3bf4c0c5449855efcbba71c4f136 "xelatex"
-  "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.aux" 1638025782 3605 123afa451dd4211900b769566113fc67 ""
-  "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.tex" 1638025781 15783 70388858c5c1322fdbdb5279dcbe619a ""
+["xelatex"] 1638219194 "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.tex" "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv" "Sutlun_Grammar" 1638219196
+  "../images/Lumlun-Diagram.png" 1638125685 70581 467a75908d4655908b678c4a52156048 ""
+  "Sutlun_Grammar.aux" 1638219194 3705 99287b59a7ca793af5f92f537ebfe8e5 "xelatex"
+  "Sutlun_Grammar.bbl" 1638128096 309 fca4b58be24803dc1d7557a6b2ce8ceb "bibtex Sutlun_Grammar"
+  "Sutlun_Grammar.tex" 1638219193 19661 ff0ae9cc208c8c4970349468e8f3bf1d ""
+  "Sutlun_Grammar.toc" 1638219194 1838 182ad23f0e283470b2cc0049c6304610 "xelatex"
+  "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.aux" 1638219194 3705 99287b59a7ca793af5f92f537ebfe8e5 ""
+  "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.tex" 1638219193 19661 ff0ae9cc208c8c4970349468e8f3bf1d ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1589664074 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1589663571 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/tipa/tipa10.tfm" 1589665742 1920 8604b12a16d79ccdaa2f671dda04ba87 ""
@@ -27,6 +28,12 @@
   "c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd" 1589664444 2431 b6cead9f069ed55f4fba0c637aa047b6 ""
   "c:/texlive/2020/texmf-dist/tex/latex/gb4e/cgloss4e.sty" 1589664121 6095 45288f50872b170544bf4feb61584b97 ""
   "c:/texlive/2020/texmf-dist/tex/latex/gb4e/gb4e.sty" 1589664121 14002 bc6669e401eb3733974d57dc33712d54 ""
+  "c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1589664181 1224 978390e9c2234eab29404bc21b268d1e ""
+  "c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def" 1589664181 12707 672c620846df0fecf0a7a99fed83566d ""
+  "c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty" 1589664179 16932 04729abe63b66ec59ea56edcd722b058 ""
+  "c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty" 1589664179 9067 1b996612394a52e1efe89c8bfe8a5892 ""
+  "c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty" 1589664179 2590 e3b24ff953e5b58d924f163d25380312 ""
+  "c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty" 1589664179 3976 d7fa7d81d2870d509d25b17d0245e735 ""
   "c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def" 1589664428 24184 b77c881974e8a6ac23a1480a1b369082 ""
   "c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty" 1589664850 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
   "c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd" 1589665742 1257 fd5b1c2f0106f9cf12cdb2ff961987c5 ""
@@ -36,9 +43,9 @@
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1589666199 4770068 791a4f4739d32d0c0b8da884d3c29f2d ""
   "c:/texlive/2020/texmf.cnf" 1589666097 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
-  "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv"
   "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.log"
-  "Sutlun_Grammar.log"
+  "c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv"
   "Sutlun_Grammar.aux"
-  "Sutlun_Grammar.xdv"
   "Sutlun_Grammar.toc"
+  "Sutlun_Grammar.xdv"
+  "Sutlun_Grammar.log"

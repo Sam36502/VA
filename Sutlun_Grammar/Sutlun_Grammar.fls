@@ -8,6 +8,18 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/base/book.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/book.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/gb4e/gb4e.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/gb4e/gb4e.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/gb4e/cgloss4e.sty
@@ -38,6 +50,7 @@ INPUT c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.toc
 INPUT c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.toc
 OUTPUT c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.toc
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/tipa/tipa10.tfm
+INPUT c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/../images/Lumlun-Diagram.png
 INPUT c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.bbl
 INPUT c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.bbl
 INPUT c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.aux

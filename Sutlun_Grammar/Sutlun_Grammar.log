@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  27 NOV 2021 16:09
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  29 NOV 2021 21:53
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -23,6 +23,24 @@ File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 ) (c:/texlive/2020/texmf-dist/tex/latex/gb4e/gb4e.sty (c:/texlive/2020/texmf-dist/tex/latex/gb4e/cgloss4e.sty
 \lineone=\box45
 \linetwo=\box46
@@ -59,8 +77,8 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count183
 ) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
@@ -74,122 +92,125 @@ File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
 ) (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.aux)
 \openout1 = `Sutlun_Grammar.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 12.
  (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 9.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 12.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 12.
  (c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    ... okay on input line 12.
  [1
 
 ] [2
 
 ] (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1.
+(Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1.
- [3])
+(Font)              <5> on input line 3.
+)
 \tf@toc=\write3
 \openout3 = `Sutlun_Grammar.toc'.
 
-
+ [3]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4] [5] [6
+ [4] [5
 
-] [7] [8]
+] [6]
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for T3+lmr on input line 53.
-LaTeX Font Info:    No file T3lmr.fd. on input line 53.
+LaTeX Font Info:    Trying to load font information for T3+lmr on input line 43.
+LaTeX Font Info:    No file T3lmr.fd. on input line 43.
 
 LaTeX Font Warning: Font shape `T3/lmr/m/n' undefined
-(Font)              using `T3/cmr/m/n' instead on input line 53.
+(Font)              using `T3/cmr/m/n' instead on input line 43.
 
-[9
+[7
 
-] [10]
-Chapter 2.
-[11
-
-] [12] [13] [14
+] [8]
+File: ../images/Lumlun-Diagram.png Graphic file (type bmp)
+<../images/Lumlun-Diagram.png>
+ [9] [10
 
 ]
+Chapter 2.
+[11] [12] [13] [14]
 Chapter 3.
-[15] [16] [17
+[15
+
+] [16] [17
 
 ] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 323--331
+Underfull \hbox (badness 10000) in paragraph at lines 430--438
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--344
+Underfull \hbox (badness 10000) in paragraph at lines 443--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--353
+Underfull \hbox (badness 10000) in paragraph at lines 452--460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--367
+Underfull \hbox (badness 10000) in paragraph at lines 465--474
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 368--377
+Underfull \hbox (badness 10000) in paragraph at lines 475--484
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 378--386
+Underfull \hbox (badness 10000) in paragraph at lines 485--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--399
+Underfull \hbox (badness 10000) in paragraph at lines 498--506
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 400--408
+Underfull \hbox (badness 10000) in paragraph at lines 507--515
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--417
+Underfull \hbox (badness 10000) in paragraph at lines 516--524
 
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 422--430
+Underfull \hbox (badness 10000) in paragraph at lines 529--537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 431--439
+Underfull \hbox (badness 10000) in paragraph at lines 538--546
 
  []
 
@@ -201,12 +222,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 2042 strings out of 479294
- 27120 string characters out of 5884395
- 265132 words of memory out of 5000000
- 19710 multiletter control sequences out of 15000+600000
+ 2445 strings out of 479294
+ 32473 string characters out of 5884395
+ 275857 words of memory out of 5000000
+ 20087 multiletter control sequences out of 15000+600000
  533122 words of font info for 39 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 37i,7n,28p,212b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,7n,28p,262b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv (23 pages, 137520 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv (23 pages, 167204 bytes).

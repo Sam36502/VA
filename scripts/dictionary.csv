@@ -12,7 +12,7 @@ w_s;EX;new, young, fresh
 s_w;EX;old, time, mature
 j_f;EX;expletive, fuck, shit
 f_j;EX;joyous expression, yay
-f_k;EX;thing, exist
+f_k;EX;thing, exist, do, happen
 k_f;EX;non-existant, fantasy
 l_n;EX;word, meaning
 n_l;EX;question, meaningless
@@ -28,8 +28,8 @@ l_m;EX;solid, strong, heavy, stone
 m_l;EX;soft, weak, broken, powder, clay, light
 p_n;EX;same, copy
 n_p;EX;different, compare
-s_n;EX;knowledge, wisdom
-n_s;EX;stupidity, foolish, silly
+s_n;EX;knowledge, wisdom, think, feel
+n_s;EX;stupidity, foolish, silly, forget
 f_l;EX;hot, heat, fire
 l_f;EX;cold, cool, ice
 j_n;EX;person, creature, to live, living, vital
@@ -38,11 +38,25 @@ k_l;EX;clothes, to cover, covered
 l_k;EX;uncovered, naked, bare
 w_t;EX;north, travel north
 t_w;EX;south, travel south
+p_j;EX;west, travel west
+j_p;EX;east, travel east
 t_l;EX;create, make
 l_t;EX;destroy, break
 t_x;EX;start, beginning, first
 x_t;EX;end, finish, last
 f_m;EX;hide, cover, secret
-m_f;EX;reveal, discover
+m_f;EX;reveal, discover, find
 p_l;EX;liquid, water, wet
 l_p;EX;dry, sand, dust
+w_k;EX;natural, plant, grow
+k_w;EX;artificial
+f_s;EX;place, located, be somewhere
+s_f;EX;nowhere, lost
+m_j;EX;power, strength
+j_m;EX;weakness, fragile
+s_j;EX;all, everything, world, universe
+j_s;EX;nothing, empty, void, 0
+m_x;EX;many, plural, divided, uncertain
+x_m;EX;one, singular, united
+w_m;EX;flat, smooth
+m_w;EX;bumpy, course
