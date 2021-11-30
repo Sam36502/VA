@@ -36,10 +36,8 @@ j_n;EX;person, creature, to live, living, vital
 n_j;EX;corpse, dead, to die
 k_l;EX;clothes, to cover, covered
 l_k;EX;uncovered, naked, bare
-w_t;EX;north, travel north
-t_w;EX;south, travel south
-p_j;EX;west, travel west
-j_p;EX;east, travel east
+p_j;EX;left, move left
+j_p;EX;right, move right
 t_l;EX;create, make
 l_t;EX;destroy, break
 t_x;EX;start, beginning, first

@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Einführung}{2}{}%
+\contentsline {section}{\numberline {2}Kurze Erklärung der UG Theorie}{2}{}%
+\contentsline {section}{\numberline {3}Prozess der Spracherstellung}{2}{}%
+\contentsline {section}{\numberline {4}Prozess der Sprachprüfung}{2}{}%
+\contentsline {section}{\numberline {5}Resultate des Experiments}{2}{}%
+\contentsline {section}{\numberline {6}Kapazität der Sprache }{2}{}%
