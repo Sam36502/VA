@@ -1,88 +1,111 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.21)  30 NOV 2021 16:30
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  1 DEC 2021 20:18
 entering extended mode
-**d:/TBZ/VA/EndDokument/EndDokument.tex
-(d:/TBZ/VA/EndDokument/EndDokument.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27> (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex
+(c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-11> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/tipa\tipa.sty
+\bibindent=\dimen134
+) (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/04/28 3.43 The Babel package
+ (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/04/28 3.43 Babel common definitions
+\babel@savecnt=\count171
+\U@D=\dimen135
+ (c:/texlive/2020/texmf-dist/tex/generic/babel/xebabel.def (c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count172
+ (c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthography)
+ (c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthography)
+Package babel Info: Making " an active character on input line 121.
+))) (c:/texlive/2020/texmf-dist/tex/latex/tipa/tipa.sty
 Package: tipa 2002/08/08 TIPA version 1.1
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3enc.def
+ (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+ (c:/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
-Now handling font encoding T3 ...
-... no UTF-8 mapping file for font encoding T3
-))) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+))) (c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip49
 \bibsep=\skip50
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count190
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks16
-\inpenc@posthook=\toks17
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count191
-\l__pdf_internal_box=\box50
-) (EndDokument.aux)
+\c@NAT@ctr=\count173
+) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count174
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count175
+\g__pdf_backend_annotation_int=\count176
+) (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux)
 \openout1 = `EndDokument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 7.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 7.
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8.
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 8.
+ (c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 7.
- (EndDokument.toc)
+LaTeX Font Info:    ... okay on input line 8.
+ (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc)
 \tf@toc=\write3
 \openout3 = `EndDokument.toc'.
 
  [1
 
-{C:/Users/sape/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (EndDokument.bbl) [2] (EndDokument.aux) ) 
+] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl) [2] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
 Here is how much of TeX's memory you used:
- 1830 strings out of 478927
- 24317 string characters out of 2853008
- 310758 words of memory out of 3000000
- 19736 multiletter control sequences out of 15000+600000
- 406243 words of font info for 36 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 55i,5n,67p,183b,118s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on EndDokument.pdf (2 pages, 88081 bytes).
-PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2603 strings out of 479294
+ 36241 string characters out of 5884395
+ 289571 words of memory out of 5000000
+ 20261 multiletter control sequences out of 15000+600000
+ 532434 words of font info for 36 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 37i,4n,28p,241b,156s stack positions out of 5000i,500n,10000p,200000b,80000s
 
+Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (2 pages, 17616 bytes).
