@@ -1,14 +1,15 @@
-\contentsline {section}{\numberline {1}Introduction}{2}{}%
-\contentsline {section}{\numberline {2}Log Entries}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Tuesday 5\textsuperscript {th} of October}{2}{}%
-\contentsline {subsection}{\numberline {2.2}Friday 8\textsuperscript {th} of October}{2}{}%
-\contentsline {subsection}{\numberline {2.3}Saturday 9\textsuperscript {th} of October}{2}{}%
-\contentsline {subsection}{\numberline {2.4}Thursday 21\textsuperscript {st} of October}{3}{}%
-\contentsline {subsection}{\numberline {2.5}Sunday 24\textsuperscript {th} of October}{3}{}%
-\contentsline {subsection}{\numberline {2.6}Friday 30\textsuperscript {th} of October}{3}{}%
-\contentsline {subsection}{\numberline {2.7}Monday 1\textsuperscript {st} of November}{3}{}%
-\contentsline {subsection}{\numberline {2.8}Tuesday 2\textsuperscript {nd} of November}{3}{}%
-\contentsline {subsection}{\numberline {2.9}Wednesday 3\textsuperscript {rd} of November}{4}{}%
-\contentsline {subsection}{\numberline {2.10}Tuesday 9\textsuperscript {th} of November}{4}{}%
-\contentsline {subsection}{\numberline {2.11}Tuesday 16\textsuperscript {th} of November}{4}{}%
-\contentsline {subsection}{\numberline {2.12}Saturday 27\textsuperscript {th} of November}{4}{}%
+\contentsline {section}{\numberline {1}Introduction}{2}%
+\contentsline {section}{\numberline {2}Log Entries}{2}%
+\contentsline {subsection}{\numberline {2.1}Tuesday 5\textsuperscript {th} of October}{2}%
+\contentsline {subsection}{\numberline {2.2}Friday 8\textsuperscript {th} of October}{2}%
+\contentsline {subsection}{\numberline {2.3}Saturday 9\textsuperscript {th} of October}{2}%
+\contentsline {subsection}{\numberline {2.4}Thursday 21\textsuperscript {st} of October}{3}%
+\contentsline {subsection}{\numberline {2.5}Sunday 24\textsuperscript {th} of October}{3}%
+\contentsline {subsection}{\numberline {2.6}Friday 30\textsuperscript {th} of October}{3}%
+\contentsline {subsection}{\numberline {2.7}Monday 1\textsuperscript {st} of November}{3}%
+\contentsline {subsection}{\numberline {2.8}Tuesday 2\textsuperscript {nd} of November}{3}%
+\contentsline {subsection}{\numberline {2.9}Wednesday 3\textsuperscript {rd} of November}{4}%
+\contentsline {subsection}{\numberline {2.10}Tuesday 9\textsuperscript {th} of November}{4}%
+\contentsline {subsection}{\numberline {2.11}Tuesday 16\textsuperscript {th} of November}{4}%
+\contentsline {subsection}{\numberline {2.12}Saturday 27\textsuperscript {th} of November}{4}%
+\contentsline {subsection}{\numberline {2.13}Wednesday 1\textsuperscript {st} of December}{5}%

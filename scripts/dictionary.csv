@@ -14,7 +14,7 @@ j_f;EX;expletive, fuck, shit
 f_j;EX;joyous expression, yay
 f_k;EX;thing, exist, do, happen
 k_f;EX;non-existant, fantasy
-l_n;EX;word, meaning
+l_n;EX;word, meaning, name
 n_l;EX;question, meaningless
 t_f;EX;good, like
 f_t;EX;bad, dislike
@@ -26,8 +26,8 @@ s_t;EX;noise, sound, wind
 t_s;EX;quiet, still
 l_m;EX;solid, strong, heavy, stone
 m_l;EX;soft, weak, broken, powder, clay, light
-p_n;EX;same, copy
-n_p;EX;different, compare
+p_n;EX;same, copy, preserve
+n_p;EX;different, compare, change
 s_n;EX;knowledge, wisdom, think, feel
 n_s;EX;stupidity, foolish, silly, forget
 f_l;EX;hot, heat, fire
@@ -38,10 +38,10 @@ k_l;EX;clothes, to cover, covered
 l_k;EX;uncovered, naked, bare
 p_j;EX;left, move left
 j_p;EX;right, move right
-t_l;EX;create, make
+t_l;EX;create, make, creation, tool
 l_t;EX;destroy, break
 t_x;EX;start, beginning, first
-x_t;EX;end, finish, last
+x_t;EX;end, finish, last, stop
 f_m;EX;hide, cover, secret
 m_f;EX;reveal, discover, find
 p_l;EX;liquid, water, wet
@@ -58,3 +58,7 @@ m_x;EX;many, plural, divided, uncertain
 x_m;EX;one, singular, united
 w_m;EX;flat, smooth
 m_w;EX;bumpy, course
+s_k;EX;gather, collect, group, 
+k_s;EX;scatter, spread, disorganised
+p_k;EX;look, see, visible, sight, bright
+k_p;EX;blind, dark, invisible
