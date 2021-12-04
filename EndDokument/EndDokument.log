@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  1 DEC 2021 20:18
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  4 DEC 2021 21:55
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -92,20 +92,25 @@ LaTeX Font Info:    Trying to load font information for T3+cmr on input line 8.
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 8.
- (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc)
+ [1
+
+] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc)
 \tf@toc=\write3
 \openout3 = `EndDokument.toc'.
 
- [1
+ [2] [3]
+Overfull \hbox (19.26228pt too wide) in paragraph at lines 137--137
+[]\TU/lmr/bx/n/14.4 Schlussfolgerungen zur Nutzbarkeit meiner Spra-
+ []
 
-] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl) [2] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
+(c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl [4]) [5] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
 Here is how much of TeX's memory you used:
- 2603 strings out of 479294
- 36241 string characters out of 5884395
- 289571 words of memory out of 5000000
- 20261 multiletter control sequences out of 15000+600000
+ 2618 strings out of 479294
+ 36448 string characters out of 5884395
+ 296571 words of memory out of 5000000
+ 20276 multiletter control sequences out of 15000+600000
  532434 words of font info for 36 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 37i,4n,28p,241b,156s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,4n,28p,219b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (2 pages, 17616 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (5 pages, 68260 bytes).

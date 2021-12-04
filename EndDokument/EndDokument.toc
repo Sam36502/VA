@@ -1,9 +1,10 @@
 \babel@toc {ngerman}{}
-\contentsline {section}{\numberline {1}Einführung}{2}%
-\contentsline {section}{\numberline {2}Kurze Erklärung der UG Theorie}{2}%
-\contentsline {section}{\numberline {3}Prozess der Spracherstellung}{2}%
-\contentsline {section}{\numberline {4}Prozess der Sprachprüfung}{2}%
-\contentsline {section}{\numberline {5}Resultate des Experiments}{2}%
-\contentsline {section}{\numberline {6}Kapazität der Sprache}{2}%
-\contentsline {section}{\numberline {7}Prozess der Erstellung der Orthografie}{2}%
-\contentsline {section}{\numberline {8}Schlussfolgerungen zum Verhältnis zwischen Sprachumfang und Nutzbarkeit}{2}%
+\contentsline {section}{\numberline {1}Einführung}{3}%
+\contentsline {section}{\numberline {2}Kurze Erklärung der UG Theorie}{3}%
+\contentsline {section}{\numberline {3}Prozess der Spracherstellung}{3}%
+\contentsline {section}{\numberline {4}Prozess der Sprachprüfung}{5}%
+\contentsline {section}{\numberline {5}Resultate des Experiments}{5}%
+\contentsline {section}{\numberline {6}Kapazität der Sprache}{5}%
+\contentsline {section}{\numberline {7}Prozess der Erstellung der Orthografie}{5}%
+\contentsline {section}{\numberline {8}Schlussfolgerungen zur Nutzbarkeit meiner Sprache}{5}%
+\contentsline {section}{\numberline {9}Schlussfolgerungen zu minimalistischen Sprachen}{5}%

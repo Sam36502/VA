@@ -1,22 +1,22 @@
 # Fdb version 3
-["bibtex EndDokument"] 1638385653 "EndDokument.aux" "EndDokument.bbl" "EndDokument" 1638386319
-  "Bibliography.bib" 1638377870 354 039e5e188b79c2a8a03213ee1738f789 ""
-  "EndDokument.aux" 1638386318 1168 316637bc67cb8c3941b13030bc9778a6 "xelatex"
+["bibtex EndDokument"] 1638651343 "EndDokument.aux" "EndDokument.bbl" "EndDokument" 1638651346
+  "Bibliography.bib" 1638475385 808 1aa0ee8b9567331a37cf8cb693be4652 ""
+  "EndDokument.aux" 1638651344 1378 fca8b73f8a4bfa00fa464d6cdf24d250 "xelatex"
   "c:/texlive/2020/texmf-dist/bibtex/bst/base/plain.bst" 1589663419 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   (generated)
-  "EndDokument.bbl"
   "EndDokument.blg"
-["xdvipdfmx"] 1638386318 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument" 1638386319
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" 1638386318 17616 cd07709da43914a155a87bc181adad83 "xelatex"
+  "EndDokument.bbl"
+["xdvipdfmx"] 1638651345 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument" 1638651346
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" 1638651344 68260 5ed06dc16aeccbf55da4c9d7849ef164 "xelatex"
   (generated)
   "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf"
-["xelatex"] 1638386317 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "EndDokument" 1638386319
-  "EndDokument.aux" 1638386318 1168 316637bc67cb8c3941b13030bc9778a6 "xelatex"
-  "EndDokument.bbl" 1638385653 309 fca4b58be24803dc1d7557a6b2ce8ceb "bibtex EndDokument"
-  "EndDokument.tex" 1638386316 2149 a375486d7b36bbbda4658ff703bb3589 ""
-  "EndDokument.toc" 1638386318 636 6b00b916941ea8b7a6551bab93d28f99 "xelatex"
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux" 1638386318 1168 316637bc67cb8c3941b13030bc9778a6 ""
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" 1638386316 2149 a375486d7b36bbbda4658ff703bb3589 ""
+["xelatex"] 1638651344 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "EndDokument" 1638651346
+  "EndDokument.aux" 1638651344 1378 fca8b73f8a4bfa00fa464d6cdf24d250 "xelatex"
+  "EndDokument.bbl" 1638651344 573 c9d9f2dac8e359de5b8896b64c678035 "bibtex EndDokument"
+  "EndDokument.tex" 1638651339 7212 254e8c51c1dbbdafff1b4642da76f5e0 ""
+  "EndDokument.toc" 1638651344 705 baf537a54ba8abb90985da0058574fc4 "xelatex"
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux" 1638651344 1378 fca8b73f8a4bfa00fa464d6cdf24d250 ""
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" 1638651339 7212 254e8c51c1dbbdafff1b4642da76f5e0 ""
   "c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1589663310 2164 da22692bce498dcc4f70209c7185a346 ""
   "c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb.ldf" 1589663310 7584 40e9a51a28a966f337267407ea4ab873 ""
   "c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def" 1589663298 105484 7c9a46614a733d79d2fb0c86fc167858 ""
@@ -38,8 +38,8 @@
   "c:/texlive/2020/texmf.cnf" 1589666097 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
   "EndDokument.toc"
-  "EndDokument.aux"
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv"
-  "EndDokument.xdv"
   "EndDokument.log"
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv"
   "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.log"
+  "EndDokument.aux"
+  "EndDokument.xdv"

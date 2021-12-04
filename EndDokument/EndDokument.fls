@@ -35,10 +35,10 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
+OUTPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc
 OUTPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc
-OUTPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux
