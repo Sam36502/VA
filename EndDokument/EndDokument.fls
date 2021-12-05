@@ -8,6 +8,18 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
 INPUT c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
@@ -39,6 +51,7 @@ OUTPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc
 OUTPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc
+INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/../images/root_derivations_1.png
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl
 INPUT c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux

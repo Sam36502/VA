@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  4 DEC 2021 21:55
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  5 DEC 2021 01:08
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -22,12 +22,30 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
 ) (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2020/04/28 3.43 The Babel package
  (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2020/04/28 3.43 Babel common definitions
 \babel@savecnt=\count171
-\U@D=\dimen135
+\U@D=\dimen137
  (c:/texlive/2020/texmf-dist/tex/generic/babel/xebabel.def (c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def))
 \bbl@readstream=\read2
 )
@@ -51,8 +69,8 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count173
 ) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
@@ -66,32 +84,32 @@ File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
 ) (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux)
 \openout1 = `EndDokument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9.
  (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 8.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 8.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 9.
  (c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    ... okay on input line 9.
  [1
 
 ] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc)
@@ -99,18 +117,21 @@ LaTeX Font Info:    ... okay on input line 8.
 \openout3 = `EndDokument.toc'.
 
  [2] [3]
-Overfull \hbox (19.26228pt too wide) in paragraph at lines 137--137
+File: ../images/root_derivations_1.png Graphic file (type bmp)
+<../images/root_derivations_1.png>
+
+Overfull \hbox (19.26228pt too wide) in paragraph at lines 147--147
 []\TU/lmr/bx/n/14.4 Schlussfolgerungen zur Nutzbarkeit meiner Spra-
  []
 
-(c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl [4]) [5] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
+(c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl [4] [5]) [6] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
 Here is how much of TeX's memory you used:
- 2618 strings out of 479294
- 36448 string characters out of 5884395
- 296571 words of memory out of 5000000
- 20276 multiletter control sequences out of 15000+600000
+ 3023 strings out of 479294
+ 41856 string characters out of 5884395
+ 303324 words of memory out of 5000000
+ 20655 multiletter control sequences out of 15000+600000
  532434 words of font info for 36 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 37i,4n,28p,219b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,4n,28p,286b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (5 pages, 68260 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (6 pages, 69804 bytes).
