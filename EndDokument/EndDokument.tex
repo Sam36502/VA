@@ -66,7 +66,7 @@
 
 
 \section{Kurze Erklärung der UG Theorie}
-In der Linguistik ist das Konzept der "Universellen Grammatik" auch heute noch ein heiß diskutiertes Thema.
+In der Linguistik ist das Konzept der "Universellen Grammatik" auch heute noch ein heiss diskutiertes Thema.
 Diese Theorie besagt, dass jeder Mensch von Geburt an die gleiche Grundstruktur für Sprache in seinem Gehirn hat.
 Die moderne Form der Theorie besagt, dass es keine festen Regeln gibt, die für jede Sprache gelten,
 sondern dass es Prinzipien gibt, die für jede Grammatik gelten, die aber durch Parameter angepasst werden,
@@ -84,7 +84,7 @@ Deshalb habe ich mich entschlossen, die mir für dieses Projekt zur Verfügung s
 Teil meiner Freizeit) damit zu verbringen, die Funktionsweise von Minimalsprachen besser zu verstehen,
 nachdem ich mich für das Konzept von Toki Pona, einer Sprache mit nur etwa 130 Wörtern und 7 Grammatikregeln\cite{Lang14},
 begeistert hatte. Obwohl ich zugeben muss, dass dies wenig mit der Universellen Grammatik zu tun hat,
-könnte es einige universelle Regeln in Bezug auf die Größe des Lexikons und den Punkt,
+könnte es einige universelle Regeln in Bezug auf die Grösse des Lexikons und den Punkt,
 an dem Abstraktion zu mehrdeutig wird, aufdecken.
 
 
@@ -104,8 +104,8 @@ in der Regel ungerundet sind, während hintere Vokale normalerweise gerundet sin
 
 Danach begann ich mit verschiedenen grammatikalischen Strukturen zu experimentieren und zu überlegen,
 wie man sie umsetzen könnte. Obwohl dies für die Einfachheit der Sprache vielleicht keine gute Idee war,
-gefiel mir die Idee, ein Groß- und Kleinschreibsystem einzuführen, um der Sprache eine freie Wortfolge zu geben.
-Das habe ich mit einfachen Suffixen gemacht, die den germanischen Großbuchstabensuffixen nicht ganz unähnlich waren,
+gefiel mir die Idee, ein Gross- und Kleinschreibsystem einzuführen, um der Sprache eine freie Wortfolge zu geben.
+Das habe ich mit einfachen Suffixen gemacht, die den germanischen Grossbuchstabensuffixen nicht ganz unähnlich waren,
 um die Mühe des Lernens auszugleichen. Danach wurde in ähnlicher Weise ein einfaches Zeitsystem mit einfachen Suffixen
 für Vergangenheit, Gegenwart und Zukunft aufgebaut. Der Aspekt wurde vorerst weitgehend vernachlässigt, da er später
 möglicherweise durch Hilfsadverbien ausgedrückt werden könnte.
@@ -117,6 +117,7 @@ oder Hebräischen, begleitet von der Idee, eine Form der Wortumkehrung einzubaue
 wenn man die Wurzeln eines Wortes umkehrt, würde es sein Antonym bilden. Beides zusammen würde bedeuten, dass jemand,
 der die Sprache lernt, nur eine Wurzel lernen muss und daraus bis zu 6 Bedeutungen ableiten kann.
 
+% TODO: Get these figures to figure their shit out
 \begin{figure}
 	\centering
 	\includegraphics[scale=0.33]{root_derivations_1.png}
@@ -124,13 +125,83 @@ der die Sprache lernt, nur eine Wurzel lernen muss und daraus bis zu 6 Bedeutung
 	\label{root_derivations_1}
 \end{figure}
 
-Danach wollte ich das System noch weiter ausbauen und schuf einige Präfixe, die unabhängig von der Wortart des Wortes
-verwendet werden konnten.
+Da das Wurzelsystem nun einen bestimmten Vokal einer bestimmten Wortart zuordnet, können wir ihre "harten" Formen verwenden,
+um einige semantische Veränderungen anzuzeigen. Ich beschloss, dass die reguläre Form die indikative Stimmung für Verben,
+die Singularzahl für Substantive und der positive Grad für Adjektive sein würde. Für die Umlautformen entschied ich mich
+für den Imperativ für Verben, den Plural für Substantive und den Superlativ für Adjektive. Dadurch verdoppelt sich die Anzahl
+der Formen, die man aus einer einzigen Wurzel extrahieren kann, wie Sie im folgenden Diagramm sehen können.
 
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.33]{root_derivations_2.png}
+	\caption{Ein Diagramm aller Ableitungen der Wurzel "T-F" wenn mann die Umlautformen dazufügt.}
+	\label{root_derivations_2}
+\end{figure}
+
+Danach wollte ich das System noch weiter ausbauen und schuf einige Präfixe, die unabhängig von der Wortart des Wortes
+verwendet werden konnten. Diese würden es dem Sprecher ermöglichen, die möglichen Bedeutungen noch zu erweitern.
+Zunächst wurden ein Negationspräfix sowie ein Augmentativ und ein Diminutiv hinzugefügt. Da diese auf alle vorhandenen
+Ableitungen angewandt und sogar kombiniert werden können, vervielfachte sich die Zahl der möglichen Bedeutungen,
+die einem einzigen Wort entnommen werden können, auf 60! Und dabei ist noch nicht einmal berücksichtigt,
+dass die meisten Wörter absichtlich mehrdeutig sind, damit sie für mehrere Dinge stehen können. Zunächst war dies recht hilfreich,
+um die Anzahl der Wörter zu reduzieren, die ich der Sprache hinzufügen musste, aber es wurde ziemlich schnell klar,
+dass dies jeden Lernenden der Sprache nur verwirren würde. Zumal die Haupttaktik bei der Wortbildung darin bestand,
+zunächst zu versuchen, das Wort aus anderen Wörtern zusammenzusetzen (z. B. "Regen" = "fallende Flüssigkeit"),
+aber obwohl ich in der Tat über einen sehr begrenzten Wortschatz verfügte, glaubte ich nicht, dass irgendjemand ausser mir sie
+verstanden hätte. Ich habe dies auch getestet, indem ich meinen Freiwilligen ab und zu zusammengesetzte
+Wörter zum Übersetzen vorgelegt habe. Die meisten Antworten bestätigten meine Befürchtungen, so dass ich eine Idee entwickelte,
+um die Testkapazität der Sprache zu verbessern und gleichzeitig meine Angst vor dem Hinzufügen neuer Wörter zu überwinden:
+Ich würde das Lexikon in kleine Segmente aufteilen, wobei die kleinste Ausgabe der Sprache nur die grundlegenden
+grammatikalischen Wörter und eine Handvoll anderer enthalten würde. Danach würde der Umfang des Lexikons allmählich zunehmen,
+bis er ein Maximum erreicht, das ich immer noch relativ klein halten wollte. Auf diese Weise könnte ich möglicherweise
+Texte in immer kleinere Editionen der Sprache übersetzen, um zu sehen, an welchem Punkt genau sie jeden Anschein von
+Bedeutung verliert. Ich beschloss, mir nicht allzu viele Gedanken über die Hinzufügung unnötiger Wörter zu machen,
+da ich sie später immer noch einschränken und das Lexikon unterteilen konnte, sobald ich die gesamte Sprache etabliert hatte.
+% TODO: Add in here if you do actually finish the Lexicon Size thing
+
+Nachdem diese Grundlage mit dem Gerüst unserer Sprache ausgestattet war, konnte ich mich an die fortgeschritteneren
+grammatikalischen Dinge wie Konditionalsätze und Relativsätze machen. Diese habe ich ähnlich wie bei Toki Pona gelöst,
+weil es einfach zu verstehen ist und ich keine Zeit damit verschwenden wollte, mir etwas Besseres einfallen zu lassen.
+Als ich das Ergebnis hatte, testete ich es an einigen Sätzen und befragte meine Testpersonen, was sie davon hielten und
+ob ich ihrer Meinung nach etwas hinzufügen oder entfernen sollte. Sie hatten im Allgemeinen recht wenig Feedback,
+und so hielt ich es für den Moment für gut genug und habe lediglich kleine Details verbessert und Wörter hinzugefügt/geändert,
+als ich weitere Testsätze schrieb und kurze Texte übersetzte.
 
 \section{Prozess der Sprachprüfung}
+Zu Beginn des Projekts hatte ich weitaus ehrgeizigere Erwartungen, was das Testen der Sprache anbelangt,
+aber im Laufe der Entwicklung wurde klar, dass ich das Testen der Fähigkeiten der Sprache einschränken sollte.
+Schon bald wurde das Versuchskonzept auf die folgenden Punkte reduziert: Zuerst würde ich einen grösseren Textblock in die
+Sprache übersetzen, danach würde ich meinen Freiwilligen dasselbe Wörterbuch zur Verfügung stellen, das ich für die Übersetzung
+verwendet hatte, und ihre Fragen zur Grammatik beantworten, während sie den Text zurück ins Deutsche übersetzten.
+Auf diese Weise konnte ich die Sprache testen und verfeinern, indem ich den grösseren Text übersetzte und so herausfand,
+wie einfach es ist, die Bedeutung komplexerer Konzepte in der Sprache zu vermitteln, und meine Freiwilligen konnten zeigen,
+wie gut man sie verstehen kann. Der Text, für den ich mich schliesslich entschied, war die Geschichte vom ``Turmbau zu Babel''
+--- ein Favorit in der conlanging community. Hier ist der vollständige Text der Geschichte auf Deutsch:
 
+\begin{quotation}
+    Die ganze Erde hatte eine Sprache und ein und dieselben Worte.
+    Als sie ostwärts aufbrachen, fanden sie eine Ebene im Land Schinar und siedelten sich dort an.
+    Sie sagten zueinander: Auf, formen wir Lehmziegel und brennen wir sie zu Backsteinen.
+    So dienten ihnen gebrannte Ziegel als Steine und Erdpech als Mörtel.
+    Dann sagten sie: Auf, bauen wir uns eine Stadt und einen Turm mit einer Spitze bis in den Himmel!
+    So wollen wir uns einen Namen machen, damit wir uns nicht über die ganze Erde zerstreuen.
+    Da stieg der HERR herab, um sich Stadt und Turm anzusehen, die die Menschenkinder bauten.
+    Und der HERR sprach: Siehe, ein Volk sind sie und eine Sprache haben sie alle.
+    Und das ist erst der Anfang ihres Tuns. Jetzt wird ihnen nichts mehr unerreichbar sein, wenn sie es sich zu tun vornehmen.
+    Auf, steigen wir hinab und verwirren wir dort ihre Sprache, sodass keiner mehr die Sprache des anderen versteht.
+    Der HERR zerstreute sie von dort aus über die ganze Erde und sie hörten auf, an der Stadt zu bauen.
+    Darum gab man der Stadt den Namen Babel, Wirrsal, denn dort hat der HERR die Sprache der ganzen Erde
+    verwirrt und von dort aus hat er die Menschen über die ganze Erde zerstreut.\citep{bibel2020}
+\end{quotation}
 
+Ursprünglich hatte ich auch geplant, Testgespräche mit meinen Freiwilligen zu führen,
+aber sie waren zu dieser Zeit viel zu sehr mit ihren eigenen Projekten beschäftigt, um eine ganze Sprache zu lernen,
+und wir konnten uns während der Pandemie nicht mehr treffen. Hätten wir es dennoch getan, wäre meine ursprüngliche
+Idee für das Experiment gewesen, eine kurze Zeit unseres normalen Lebens damit zu verbringen,
+die grundlegenden Dinge zu beschreiben, die wir tun, und uns normal in der Sprache zu unterhalten.
+Das wäre meiner Meinung nach der beste Weg gewesen, um die Fähigkeit der Sprache zu testen, alltägliche Dinge auszudrücken.
+Das System des skalierenden Lexikons könnte auch verwendet werden, indem man die Konversation zunächst auf das kleinste
+Lexikon beschränkt und den Umfang allmählich erhöht, bis der Punkt erreicht ist, an dem es Sinn macht, oder umgekehrt.
 
 \section{Resultate des Experiments}
 

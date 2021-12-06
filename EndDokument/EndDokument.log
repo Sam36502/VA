@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  5 DEC 2021 01:08
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  6 DEC 2021 18:26
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -119,19 +119,21 @@ LaTeX Font Info:    ... okay on input line 9.
  [2] [3]
 File: ../images/root_derivations_1.png Graphic file (type bmp)
 <../images/root_derivations_1.png>
-
-Overfull \hbox (19.26228pt too wide) in paragraph at lines 147--147
+File: ../images/root_derivations_2.png Graphic file (type bmp)
+<../images/root_derivations_2.png>
+ [4] [5] [6]
+Overfull \hbox (19.26228pt too wide) in paragraph at lines 218--218
 []\TU/lmr/bx/n/14.4 Schlussfolgerungen zur Nutzbarkeit meiner Spra-
  []
 
-(c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl [4] [5]) [6] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
+(c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl [7]) [8] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
 Here is how much of TeX's memory you used:
- 3023 strings out of 479294
- 41856 string characters out of 5884395
- 303324 words of memory out of 5000000
- 20655 multiletter control sequences out of 15000+600000
+ 3039 strings out of 479294
+ 42201 string characters out of 5884395
+ 309324 words of memory out of 5000000
+ 20670 multiletter control sequences out of 15000+600000
  532434 words of font info for 36 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 37i,4n,28p,286b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,4n,28p,286b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (6 pages, 69804 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (8 pages, 137608 bytes).

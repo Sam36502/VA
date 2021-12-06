@@ -3,44 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: EndDokument.aux
 The style file: plain.bst
 Database file #1: Bibliography.bib
-You've used 3 entries,
+Warning--to sort, need author, editor, or key in bibel2020
+Warning--empty author and editor in bibel2020
+You've used 4 entries,
             2118 wiz_defined-function locations,
-            519 strings with 4375 characters,
-and the built_in function-call counts, 924 in all, are:
-= -- 86
-> -- 35
+            525 strings with 4546 characters,
+and the built_in function-call counts, 1104 in all, are:
+= -- 102
+> -- 36
 < -- 1
-+ -- 14
++ -- 15
 - -- 10
-* -- 48
-:= -- 158
-add.period$ -- 10
-call.type$ -- 3
-change.case$ -- 12
+* -- 60
+:= -- 181
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 14
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 46
-empty$ -- 84
+cite$ -- 6
+duplicate$ -- 59
+empty$ -- 108
 format.name$ -- 10
-if$ -- 204
+if$ -- 246
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 5
-newline$ -- 18
+int.to.str$ -- 4
+missing$ -- 6
+newline$ -- 22
 num.names$ -- 8
-pop$ -- 22
+pop$ -- 28
 preamble$ -- 1
-purify$ -- 10
+purify$ -- 12
 quote$ -- 0
-skip$ -- 29
+skip$ -- 35
 stack$ -- 0
-substring$ -- 36
-swap$ -- 10
+substring$ -- 41
+swap$ -- 11
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 0
+type$ -- 10
+warning$ -- 2
 while$ -- 9
-width$ -- 4
-write$ -- 36
+width$ -- 5
+write$ -- 45
+(There were 2 warnings)
