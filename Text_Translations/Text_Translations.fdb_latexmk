@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1638381000 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations" 1638381000
+["xdvipdfmx"] 1638381000 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations" 1638994421
   "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" 1638380999 52648 9e8d99f2a007fb3bca8b5a4a227fc148 "xelatex"
   (generated)
   "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf"
-["xelatex"] 1638380999 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "Text_Translations" 1638381000
+["xelatex"] 1638380999 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "Text_Translations" 1638994421
   "Text_Translations.aux" 1638380999 1006 006e6ac0c03f55c30e84f0d8ecbd5a59 "xelatex"
   "Text_Translations.tex" 1638380998 5352 f1cabb87faeb385ec6703b6f811a5045 ""
   "Text_Translations.toc" 1638380999 518 7ca7f1f78ad8cd82722a40e816dc3d63 "xelatex"
@@ -30,9 +30,9 @@
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1589666199 4770068 791a4f4739d32d0c0b8da884d3c29f2d ""
   "c:/texlive/2020/texmf.cnf" 1589666097 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
-  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.log"
-  "Text_Translations.toc"
-  "Text_Translations.xdv"
-  "Text_Translations.aux"
   "Text_Translations.log"
+  "Text_Translations.xdv"
+  "Text_Translations.toc"
   "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv"
+  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.log"
+  "Text_Translations.aux"
