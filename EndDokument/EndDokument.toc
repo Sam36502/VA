@@ -1,10 +1,11 @@
-\babel@toc {ngerman}{}
-\contentsline {section}{\numberline {1}Einführung}{3}%
-\contentsline {section}{\numberline {2}Kurze Erklärung der UG Theorie}{3}%
-\contentsline {section}{\numberline {3}Prozess der Spracherstellung}{3}%
-\contentsline {section}{\numberline {4}Prozess der Sprachprüfung}{6}%
-\contentsline {section}{\numberline {5}Resultate des Experiments}{8}%
-\contentsline {section}{\numberline {6}Kapazität der Sprache}{8}%
-\contentsline {section}{\numberline {7}Prozess der Erstellung der Orthografie}{8}%
-\contentsline {section}{\numberline {8}Schlussfolgerungen zur Nutzbarkeit meiner Sprache}{8}%
-\contentsline {section}{\numberline {9}Schlussfolgerungen zu minimalistischen Sprachen}{8}%
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einführung}{3}{}%
+\contentsline {section}{\numberline {2}Kurze Erklärung der UG Theorie}{3}{}%
+\contentsline {section}{\numberline {3}Prozess der Spracherstellung}{3}{}%
+\contentsline {section}{\numberline {4}Prozess der Sprachprüfung}{6}{}%
+\contentsline {section}{\numberline {5}Resultate des Experiments}{8}{}%
+\contentsline {section}{\numberline {6}Kapazität der Sprache}{8}{}%
+\contentsline {section}{\numberline {7}Prozess der Erstellung der Orthografie}{8}{}%
+\contentsline {section}{\numberline {8}Schlussfolgerungen zur Nutzbarkeit meiner Sprache}{8}{}%
+\contentsline {section}{\numberline {9}Schlussfolgerungen zur Spracherstellung}{8}{}%
+\contentsline {section}{\numberline {10}Lernjournal}{8}{}%

@@ -4,6 +4,7 @@
 %\usepackage{fontspec}
 \usepackage{tipa}
 \usepackage{natbib}
+\usepackage{pdfpages}
 \usepackage[utf8]{inputenc}
 
 \begin{document}
@@ -59,20 +60,18 @@
 \tableofcontents
 \pagebreak
 
-
-
 \section{Einführung}
 
 
 
 \section{Kurze Erklärung der UG Theorie}
-In der Linguistik ist das Konzept der "Universellen Grammatik" auch heute noch ein heiss diskutiertes Thema.
+In der Linguistik ist das Konzept der ``Universellen Grammatik'' auch heute noch ein heiss diskutiertes Thema.
 Diese Theorie besagt, dass jeder Mensch von Geburt an die gleiche Grundstruktur für Sprache in seinem Gehirn hat.
 Die moderne Form der Theorie besagt, dass es keine festen Regeln gibt, die für jede Sprache gelten,
 sondern dass es Prinzipien gibt, die für jede Grammatik gelten, die aber durch Parameter angepasst werden,
 was zu der fast fraktalen Komplexität aller Sprachen der Welt führt. Ein Beispiel hierfür wäre das mögliche Prinzip,
-dass Satzbewegungen nur auf einen kurzen Bereich beschränkt sind, und ein Beispiel für einen Parameter ist der "Head-Parameter",
-der vorschreibt, in welcher Reihenfolge Phrasen im Verhältnis zu ihrem "Kopf" gebildet werden.\cite{ChUGAI}
+dass Satzbewegungen nur auf einen kurzen Bereich beschränkt sind, und ein Beispiel für einen Parameter ist der ``Head-Parameter'',
+der vorschreibt, in welcher Reihenfolge Phrasen im Verhältnis zu ihrem ``Kopf'' gebildet werden.\cite{ChUGAI}
 
 Der Grund, warum die Universalgrammatik eine so schwer zu knackende Nuss ist, liegt darin, dass Sprache etwas extrem Subjektives
 ist und dass es - zumindest solange wir das Geheimnis des menschlichen Bewusstseins nicht gelüftet haben - unmöglich ist,
@@ -121,11 +120,11 @@ der die Sprache lernt, nur eine Wurzel lernen muss und daraus bis zu 6 Bedeutung
 \begin{figure}
 	\centering
 	\includegraphics[scale=0.33]{root_derivations_1.png}
-	\caption{Ein Diagramm aller Ableitungen der Wurzel "T-F" mit Inversion und dem bikonsonantischen Wurzelsystem.}
+	\caption{Ein Diagramm aller Ableitungen der Wurzel ``T-F'' mit Inversion und dem bikonsonantischen Wurzelsystem.}
 	\label{root_derivations_1}
 \end{figure}
 
-Da das Wurzelsystem nun einen bestimmten Vokal einer bestimmten Wortart zuordnet, können wir ihre "harten" Formen verwenden,
+Da das Wurzelsystem nun einen bestimmten Vokal einer bestimmten Wortart zuordnet, können wir ihre ``harten'' Formen verwenden,
 um einige semantische Veränderungen anzuzeigen. Ich beschloss, dass die reguläre Form die indikative Stimmung für Verben,
 die Singularzahl für Substantive und der positive Grad für Adjektive sein würde. Für die Umlautformen entschied ich mich
 für den Imperativ für Verben, den Plural für Substantive und den Superlativ für Adjektive. Dadurch verdoppelt sich die Anzahl
@@ -134,7 +133,7 @@ der Formen, die man aus einer einzigen Wurzel extrahieren kann, wie Sie im folge
 \begin{figure}
 	\centering
 	\includegraphics[scale=0.33]{root_derivations_2.png}
-	\caption{Ein Diagramm aller Ableitungen der Wurzel "T-F" wenn mann die Umlautformen dazufügt.}
+	\caption{Ein Diagramm aller Ableitungen der Wurzel ``T-F'' wenn mann die Umlautformen dazufügt.}
 	\label{root_derivations_2}
 \end{figure}
 
@@ -146,7 +145,7 @@ die einem einzigen Wort entnommen werden können, auf 60! Und dabei ist noch nic
 dass die meisten Wörter absichtlich mehrdeutig sind, damit sie für mehrere Dinge stehen können. Zunächst war dies recht hilfreich,
 um die Anzahl der Wörter zu reduzieren, die ich der Sprache hinzufügen musste, aber es wurde ziemlich schnell klar,
 dass dies jeden Lernenden der Sprache nur verwirren würde. Zumal die Haupttaktik bei der Wortbildung darin bestand,
-zunächst zu versuchen, das Wort aus anderen Wörtern zusammenzusetzen (z. B. "Regen" = "fallende Flüssigkeit"),
+zunächst zu versuchen, das Wort aus anderen Wörtern zusammenzusetzen (z. B. ``Regen'' = ``fallende Flüssigkeit''),
 aber obwohl ich in der Tat über einen sehr begrenzten Wortschatz verfügte, glaubte ich nicht, dass irgendjemand ausser mir sie
 verstanden hätte. Ich habe dies auch getestet, indem ich meinen Freiwilligen ab und zu zusammengesetzte
 Wörter zum Übersetzen vorgelegt habe. Die meisten Antworten bestätigten meine Befürchtungen, so dass ich eine Idee entwickelte,
@@ -219,10 +218,32 @@ Lexikon beschränkt und den Umfang allmählich erhöht, bis der Punkt erreicht i
 
 
 
-\section{Schlussfolgerungen zu minimalistischen Sprachen}
+\section{Schlussfolgerungen zur Spracherstellung}
+
+
+
+\section{Lernjournal}
+
 
 
 \bibliography{Bibliography}
 \bibliographystyle{plain}
+
+\renewcommand{\section}[1]{\newpage\vspace*{\fill}\Huge{#1}\vspace*{\fill}}
+
+%\section{Anhang A: Projektbeschrieb}
+%\includepdf[pages=-]{../Project_Description/Project_Description.pdf}
+
+%\section{Anhang B: Sutlun Grammatik und Lexikon}
+%\includepdf[pages=-]{../Sutlun_Grammar/Sutlun_Grammar.pdf}
+
+%\section{Anhang C: Übersetzte Texte}
+%\includepdf[pages=-]{../Text_Translations/Text_Translations.pdf}
+
+%\section{Anhang D: Arbeitsprotokoll}
+%\includepdf[pages=-]{../Language_Log/Language_Log.pdf}
+
+%\section{Anhang E: Urheberrechterklärung}
+%\includepdf[pages=-]{../Copyright_Declaration/Copyright_Declaration.pdf}
 
 \end{document}
