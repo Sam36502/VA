@@ -1,24 +1,29 @@
 # Fdb version 3
-["bibtex EndDokument"] 1639237533 "EndDokument.aux" "EndDokument.bbl" "EndDokument" 1639237536
+["bibtex EndDokument"] 1639350410 "EndDokument.aux" "EndDokument.bbl" "EndDokument" 1639350653
   "Bibliography.bib" 1639237532 1169 c5df5fb6dec59bb5e103b6d4282fa4ff ""
-  "EndDokument.aux" 1639237534 2256 31b4d7f03d2027139f55519819bb995b "xelatex"
+  "EndDokument.aux" 1639350651 2300 dad369ae568212958312c0df9232cfdc "xelatex"
   "c:/texlive/2020/texmf-dist/bibtex/bst/base/apalike.bst" 1589663419 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   (generated)
-  "EndDokument.bbl"
   "EndDokument.blg"
-["xdvipdfmx"] 1639237535 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument" 1639237536
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" 1639237534 173964 9b71a3f2ab298bfe6a7229785845b30b "xelatex"
+  "EndDokument.bbl"
+["xdvipdfmx"] 1639350652 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument" 1639350653
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" 1639350651 365916 757fcbdceb5384f5fa3eb248b68773eb "xelatex"
   (generated)
   "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf"
-["xelatex"] 1639237534 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "EndDokument" 1639237536
+["xelatex"] 1639350650 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "EndDokument" 1639350653
+  "../Copyright_Declaration/Copyright_Declaration.pdf" 1639324233 11292 94419686dc5ffd7947dd4482b41a9672 ""
+  "../Language_Log/langlog.pdf" 1639328070 39010 17c74e8d8c205350a87d444b0ee4977e ""
+  "../Project_Description/Project_Description.pdf" 1632412524 31393 8f85710159c545373da344c01fa250bd ""
+  "../Sutlun_Grammar/Sutlun_Grammar.pdf" 1639346899 157172 febdffa4c64d4e4992a5d6a8e6d33e7c ""
+  "../Text_Translations/Text_Translations.pdf" 1639341525 36685 a073ef6d7756fb12f774b48665a00e34 ""
   "../images/root_derivations_1.png" 1638662871 51011 7fed2ff32af932d376e353bbf0d8dcfc ""
   "../images/root_derivations_2.png" 1638663153 79038 07d942a53c7bddd9d75aae76efac7c45 ""
-  "EndDokument.aux" 1639237534 2256 31b4d7f03d2027139f55519819bb995b "xelatex"
-  "EndDokument.bbl" 1639237534 788 4a19a85bd7527ef379de67b299a3d43a "bibtex EndDokument"
-  "EndDokument.tex" 1639237343 18395 5c62fba44763b69ce3a203fd4a0866f5 ""
-  "EndDokument.toc" 1639237534 941 3c7e2919adc581a03e0749e7216e78ed "xelatex"
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux" 1639237534 2256 31b4d7f03d2027139f55519819bb995b ""
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" 1639237343 18395 5c62fba44763b69ce3a203fd4a0866f5 ""
+  "EndDokument.aux" 1639350651 2300 dad369ae568212958312c0df9232cfdc "xelatex"
+  "EndDokument.bbl" 1639350410 788 4a19a85bd7527ef379de67b299a3d43a "bibtex EndDokument"
+  "EndDokument.tex" 1639350649 34939 222a39fa1a78de8b1944fa7647069c6a ""
+  "EndDokument.toc" 1639350651 985 d00994cc66955e9153dc1a2720298b80 "xelatex"
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux" 1639350651 2300 dad369ae568212958312c0df9232cfdc ""
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" 1639350649 34939 222a39fa1a78de8b1944fa7647069c6a ""
   "c:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1589663284 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1589663310 2164 da22692bce498dcc4f70209c7185a346 ""
   "c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb.ldf" 1589663310 7584 40e9a51a28a966f337267407ea4ab873 ""
@@ -58,9 +63,9 @@
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1589666199 4770068 791a4f4739d32d0c0b8da884d3c29f2d ""
   "c:/texlive/2020/texmf.cnf" 1589666097 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.log"
-  "EndDokument.aux"
-  "EndDokument.log"
-  "EndDokument.toc"
   "EndDokument.xdv"
+  "EndDokument.log"
+  "EndDokument.aux"
+  "EndDokument.toc"
   "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv"
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.log"

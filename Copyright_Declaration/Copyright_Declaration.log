@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  8 DEC 2021 23:00
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  12 DEC 2021 16:50
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -52,26 +52,26 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 
-Overfull \hbox (6.68202pt too wide) in paragraph at lines 11--14
+Overfull \hbox (6.68202pt too wide) in paragraph at lines 13--16
 \TU/lmr/m/n/10 habe, klar von meinen eigenen Überlegungen und Folgerungen unterschieden
  []
 
 
-Overfull \hbox (5.64001pt too wide) in paragraph at lines 18--20
+Overfull \hbox (5.64001pt too wide) in paragraph at lines 20--22
 \TU/lmr/m/n/10 ich klar nach Herkunft von Texten und Bildern mit entsprechenden Internet-
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 25.
+(Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 25.
+(Font)              <5> on input line 32.
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
  []
 
 
-Overfull \hbox (40.35pt too wide) in paragraph at lines 23--29
+Overfull \hbox (40.35pt too wide) in paragraph at lines 30--36
 [] 
  []
 
@@ -81,10 +81,10 @@ Overfull \hbox (40.35pt too wide) in paragraph at lines 23--29
 Here is how much of TeX's memory you used:
  408 strings out of 479294
  8464 string characters out of 5884395
- 246656 words of memory out of 5000000
+ 247656 words of memory out of 5000000
  18128 multiletter control sequences out of 15000+600000
  532362 words of font info for 27 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  24i,7n,19p,215b,107s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/Copyright_Declaration/Copyright_Declaration.xdv (1 page, 9100 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/Copyright_Declaration/Copyright_Declaration.xdv (1 page, 12324 bytes).

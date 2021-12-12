@@ -1,14 +1,14 @@
 # Fdb version 3
-["xdvipdfmx"] 1639241141 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations" 1639241142
-  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" 1639241141 50916 cbc151ffd81dd1dbbbf4702af0760aeb "xelatex"
+["xdvipdfmx"] 1639341524 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations" 1639341525
+  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" 1639341524 50916 73f225f06a3063ba589675582f41fa1b "xelatex"
   (generated)
   "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf"
-["xelatex"] 1639241140 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "Text_Translations" 1639241142
-  "Text_Translations.aux" 1639241141 866 6862d591a5d3f94ca4afd12ced55f32e "xelatex"
-  "Text_Translations.tex" 1639241140 5377 d8326b598bc4ac5d0bdcac4445223a51 ""
-  "Text_Translations.toc" 1639241141 530 1f9498bd46e17254889b88cc6320138f "xelatex"
-  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.aux" 1639241141 866 6862d591a5d3f94ca4afd12ced55f32e ""
-  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" 1639241140 5377 d8326b598bc4ac5d0bdcac4445223a51 ""
+["xelatex"] 1639341523 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "Text_Translations" 1639341525
+  "Text_Translations.aux" 1639341524 866 6862d591a5d3f94ca4afd12ced55f32e "xelatex"
+  "Text_Translations.tex" 1639341523 5381 5fa246edd6b50b9dcd6d7c991da5ef1f ""
+  "Text_Translations.toc" 1639341524 530 1f9498bd46e17254889b88cc6320138f "xelatex"
+  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.aux" 1639341524 866 6862d591a5d3f94ca4afd12ced55f32e ""
+  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" 1639341523 5381 5fa246edd6b50b9dcd6d7c991da5ef1f ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1589664074 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/tipa/tipa10.tfm" 1589665742 1920 8604b12a16d79ccdaa2f671dda04ba87 ""
   "c:/texlive/2020/texmf-dist/tex/latex/base/article.cls" 1589664444 20023 e427dd9e17e239bf926ef3aab67fe35e ""
@@ -30,9 +30,9 @@
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1589666199 4770068 791a4f4739d32d0c0b8da884d3c29f2d ""
   "c:/texlive/2020/texmf.cnf" 1589666097 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
-  "Text_Translations.xdv"
-  "Text_Translations.toc"
-  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv"
   "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.log"
   "Text_Translations.log"
+  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv"
+  "Text_Translations.xdv"
+  "Text_Translations.toc"
   "Text_Translations.aux"

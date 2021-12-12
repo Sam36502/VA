@@ -1,13 +1,13 @@
 \babel@toc {ngerman}{}
 \contentsline {section}{\numberline {1}Einführung und Projektbeschreibung}{3}%
-\contentsline {subsection}{\numberline {1.1}Kurze Erklärung der UG Theorie}{3}%
-\contentsline {subsection}{\numberline {1.2}Prozess der Spracherstellung}{3}%
-\contentsline {subsection}{\numberline {1.3}Prozess der Sprachprüfung}{6}%
-\contentsline {subsection}{\numberline {1.4}Prozess der Erstellung der Orthografie}{7}%
-\contentsline {section}{\numberline {2}Resultate und Schlussfolgerungen}{8}%
-\contentsline {subsection}{\numberline {2.1}Resultate des Experiments}{8}%
-\contentsline {subsection}{\numberline {2.2}Kapazität der Sprache}{8}%
-\contentsline {subsection}{\numberline {2.3}Schlussfolgerungen zur Spracherstellung}{8}%
-\contentsline {section}{\numberline {3}Lernjournal \& Reflexion}{8}%
-\contentsline {subsection}{\numberline {3.1}Lernjournal}{8}%
-\contentsline {subsection}{\numberline {3.2}Reflexion über die VA}{8}%
+\contentsline {subsection}{\numberline {1.1}Vorwort}{3}%
+\contentsline {subsection}{\numberline {1.2}Kurze Erklärung der UG Theorie}{3}%
+\contentsline {subsection}{\numberline {1.3}Prozess der Spracherstellung}{4}%
+\contentsline {subsection}{\numberline {1.4}Prozess der Sprachprüfung}{7}%
+\contentsline {subsection}{\numberline {1.5}Prozess der Erstellung der Orthographie}{8}%
+\contentsline {section}{\numberline {2}Resultate und Schlussfolgerungen}{9}%
+\contentsline {subsection}{\numberline {2.1}Schlussfolgerungen zur Spracherstellung}{9}%
+\contentsline {subsection}{\numberline {2.2}Schlussfolgerungen zur Erstellung der Orthographie und Schriftart}{10}%
+\contentsline {subsection}{\numberline {2.3}Resultate des Experiments}{11}%
+\contentsline {subsection}{\numberline {2.4}Kapazität der Sprache}{12}%
+\contentsline {section}{\numberline {3}Lernjournal \& Reflexion}{14}%

@@ -14,6 +14,16 @@
 \entry{pák}{"p\oe k}{a. sup.}{most visible, brightest}
 
 \filbreak
+{\Large\textbf{P-M} -- Go Down, South, Down, South, Low, Southern} \\
+\emph{Antonym: ``Go Up, North, Up, North, High, Northern'' See M-P} \\
+\entry{pym}{"pim}{v. ind.}{go down, south}
+\entry{pým}{"pym}{v. imp.}{go down, south!}
+\entry{pum}{"pum}{n. sg.}{down, south}
+\entry{púm}{"p2m}{n. pl.}{downs}
+\entry{pam}{"pam}{a. pos.}{low, southern}
+\entry{pám}{"p\oe m}{a. sup.}{lowest, southernmost}
+
+\filbreak
 {\Large\textbf{P-N} -- Copy, Preserve, Copy, Same, Similar} \\
 \emph{Antonym: ``Compare, Change, Difference, Change, Different'' See N-P} \\
 \entry{pyn}{"pin}{v. ind.}{copy, preserve}
@@ -25,7 +35,7 @@
 
 \filbreak
 {\Large\textbf{P-X} -- Eat, An Item Of Food, Delicious} \\
-\emph{Antonym: ``Expell, A Piece Of Excrement, Disgusting'' See X-P} \\
+\emph{Antonym: ``Expel, A Piece Of Excrement, Disgusting'' See X-P} \\
 \entry{pyx}{"pix}{v. ind.}{eat}
 \entry{pýx}{"pyx}{v. imp.}{eat!}
 \entry{pux}{"pux}{n. sg.}{an item of food}
@@ -112,12 +122,12 @@
 \entry{káp}{"k\oe p}{a. sup.}{least visible, darkest}
 
 \filbreak
-{\Large\textbf{K-M} -- What Thing?, Doing What?, Like What?} \\
-\emph{Antonym: ``This/that Thing, Doing This, Like This'' See M-K} \\
-\entry{kym}{"kim}{v. ind.}{what thing?}
-\entry{kým}{"kym}{v. imp.}{what things?}
-\entry{kum}{"kum}{n. sg.}{doing what?}
-\entry{kúm}{"k2m}{n. pl.}{(Special form: expletive)what!?}
+{\Large\textbf{K-M} -- Doing What?, What Thing?, Like What?} \\
+\emph{Antonym: ``Doing This, This/that Thing, Like This'' See M-K} \\
+\entry{kym}{"kim}{v. ind.}{doing what?}
+\entry{kým}{"kym}{v. imp.}{(Special form: expletive)what!?}
+\entry{kum}{"kum}{n. sg.}{what thing?}
+\entry{kúm}{"k2m}{n. pl.}{what things?}
 \entry{kam}{"kam}{a. pos.}{like what?}
 \entry{kám}{"k\oe m}{a. sup.}{most like what?}
     \entry{kem}{"kem}{expl.}{What!?}
@@ -157,7 +167,7 @@
 {\Large\textbf{K-W} -- Shrink, Wither, Industry, Artificial} \\
 \emph{Antonym: ``Grow, Nature, Plant, Natural'' See W-K} \\
 \entry{kyw}{"kiw}{v. ind.}{shrink, wither}
-\entry{kýw}{"kyw}{v. imp.}{shrink!, wither}
+\entry{kýw}{"kyw}{v. imp.}{shrink!, wither!}
 \entry{kuw}{"kuw}{n. sg.}{industry}
 \entry{kúw}{"k2w}{n. pl.}{industries}
 \entry{kaw}{"kaw}{a. pos.}{artificial}
@@ -178,12 +188,22 @@
 \end{center}
 
 \filbreak
-{\Large\textbf{M-K} -- This/that Thing, Doing This, Like This} \\
-\emph{Antonym: ``What Thing?, Doing What?, Like What?'' See K-M} \\
-\entry{myk}{"mik}{v. ind.}{this/that thing}
-\entry{mýk}{"myk}{v. imp.}{these/those things}
-\entry{muk}{"muk}{n. sg.}{doing this}
-\entry{múk}{"m2k}{n. pl.}{do this!}
+{\Large\textbf{M-P} -- Go Up, North, Up, North, High, Northern} \\
+\emph{Antonym: ``Go Down, South, Down, South, Low, Southern'' See P-M} \\
+\entry{myp}{"mip}{v. ind.}{go up, north}
+\entry{mýp}{"myp}{v. imp.}{go up, north!}
+\entry{mup}{"mup}{n. sg.}{up, north}
+\entry{múp}{"m2p}{n. pl.}{ups}
+\entry{map}{"map}{a. pos.}{high, northern}
+\entry{máp}{"m\oe p}{a. sup.}{highest, northernmost}
+
+\filbreak
+{\Large\textbf{M-K} -- Doing This, This/that Thing, Like This} \\
+\emph{Antonym: ``Doing What?, What Thing?, Like What?'' See K-M} \\
+\entry{myk}{"mik}{v. ind.}{doing this}
+\entry{mýk}{"myk}{v. imp.}{do this!}
+\entry{muk}{"muk}{n. sg.}{this/that thing}
+\entry{múk}{"m2k}{n. pl.}{these/those things}
 \entry{mak}{"mak}{a. pos.}{like this}
 \entry{mák}{"m\oe k}{a. sup.}{most like this}
 
@@ -465,10 +485,10 @@
 \end{center}
 
 \filbreak
-{\Large\textbf{X-P} -- Expell, A Piece Of Excrement, Disgusting} \\
+{\Large\textbf{X-P} -- Expel, A Piece Of Excrement, Disgusting} \\
 \emph{Antonym: ``Eat, An Item Of Food, Delicious'' See P-X} \\
-\entry{xyp}{"xip}{v. ind.}{expell}
-\entry{xýp}{"xyp}{v. imp.}{expell!}
+\entry{xyp}{"xip}{v. ind.}{expel}
+\entry{xýp}{"xyp}{v. imp.}{expel!}
 \entry{xup}{"xup}{n. sg.}{a piece of excrement}
 \entry{xúp}{"x2p}{n. pl.}{excrement}
 \entry{xap}{"xap}{a. pos.}{disgusting}

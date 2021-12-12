@@ -1,7 +1,7 @@
 k_n;E1;go;go!;journey;journies;moving, active;most active;prep.;to
 n_k;E1;come;come!;return;returns;returned;most returned;prep.;from
-k_m;E1;what thing?;what things?;doing what?;(Special form: expletive)what!?;like what?;most like what?;expl.;What!?
-m_k;E1;this/that thing;these/those things;doing this;do this!;like this;most like this
+k_m;E1;doing what?;(Special form: expletive)what!?;what thing?;what things?;like what?;most like what?;expl.;What!?
+m_k;E1;doing this;do this!;this/that thing;these/those things;like this;most like this
 p_x;EX;eat;eat!;an item of food;food;delicious;most delicious
 x_p;EX;expel;expel!;a piece of excrement;excrement;disgusting;most disgusting;expl.;damn!
 m_n;EX;play;play!;game;games;fun;most fun
@@ -45,7 +45,7 @@ m_f;EX;reveal, find;find!;discovery;discoveries;public;most public
 p_l;EX;wet;wet!;water, liquid;liquids;wet;wettest
 l_p;EX;dry;dry!;sand, dust;sands, dust;dry;dryest
 w_k;EX;grow;grow!;nature, plant;plants;natural;most natural
-k_w;EX;shrink, wither;shrink!, wither;industry;industries;artificial;most artificial
+k_w;EX;shrink, wither;shrink!, wither!;industry;industries;artificial;most artificial
 f_s;EX;locate;locate!;place, location;places, locations;near;nearest
 s_f;EX;be lost;be lost!;void;voids;lost;most lost
 m_j;EX;force;force!;power, strength;powers, strengths;strong, 
@@ -60,3 +60,5 @@ s_k;EX;gather, collect;gather!, collect;group;groups;organised;most organised
 k_s;EX;scatter;scatter!;spread;spreads;disorganised;least organised
 p_k;EX;look, see;look!, see!;light, sight;lights, sights;visible, bright;most visible, brightest
 k_p;EX;blind;blind!;darkness;darknesses;invisible, dark;least visible, darkest
+m_p;EX;go up, north;go up, north!;up, north;ups;high, northern;highest, northernmost
+p_m;EX;go down, south;go down, south!;down, south;downs;low, southern;lowest, southernmost
