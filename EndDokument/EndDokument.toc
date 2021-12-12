@@ -11,3 +11,8 @@
 \contentsline {subsection}{\numberline {2.3}Resultate des Experiments}{11}%
 \contentsline {subsection}{\numberline {2.4}Kapazität der Sprache}{12}%
 \contentsline {section}{\numberline {3}Lernjournal \& Reflexion}{14}%
+\contentsline {section}{Anhang A: Projektbeschrieb}{15}%
+\contentsline {section}{Anhang B: Sutlun Grammatik und Lexikon}{15}%
+\contentsline {section}{Anhang C: Übersetzte Texte}{15}%
+\contentsline {section}{Anhang D: Arbeitsprotokoll}{15}%
+\contentsline {section}{Anhang E: Selbständigkeitserklärung}{15}%

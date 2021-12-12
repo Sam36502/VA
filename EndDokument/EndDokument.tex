@@ -1,7 +1,6 @@
 \documentclass{article}
 \usepackage{graphicx}
 \usepackage[ngerman]{babel}
-%\usepackage{fontspec}
 \usepackage{tipa}
 \usepackage{natbib}
 \usepackage{pdfpages}
@@ -10,13 +9,6 @@
 \begin{document}
 
 \graphicspath{ {../images/} }
-
-%\newfontfamily{\lmln}[
-%    Path=../fonts/,
-%    UprightFont=Lumlun Sans Regular.ttf
-%]{Lumlun Sans}
-%
-%\newcommand{\ortho}[1]{{\lmln\Large{\raggedright#1}\par}}
 
 \begingroup
 \centering
@@ -50,7 +42,6 @@
 
 \tableofcontents
 \pagebreak
-
 
 
 
@@ -459,6 +450,12 @@ Seite sehr stolz auf das Endprodukt gewesen.
 \bibliographystyle{apalike}
 
 \renewcommand{\section}[1]{\newpage\vspace*{\fill}\Huge{#1}\vspace*{\fill}}
+
+\addcontentsline{toc}{section}{Anhang A: Projektbeschrieb}
+\addcontentsline{toc}{section}{Anhang B: Sutlun Grammatik und Lexikon}
+\addcontentsline{toc}{section}{Anhang C: Übersetzte Texte}
+\addcontentsline{toc}{section}{Anhang D: Arbeitsprotokoll}
+\addcontentsline{toc}{section}{Anhang E: Selbständigkeitserklärung}
 
 \section{Anhang A: Projektbeschrieb}
 \includepdf[pages=-]{../Project_Description/Project_Description.pdf}
