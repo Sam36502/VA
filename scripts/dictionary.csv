@@ -1,64 +1,62 @@
-k_n;E1;movement toward, go
-n_k;E1;movement away from, come
-k_m;E1;query, what
-m_k;E1;demonstrative, that
-p_x;EX;food, eat
-x_p;EX;expell, urinate, excrete
-m_n;EX;entertainment, play, watch, read
-n_m;EX;work, must, task, boring
-n_f;EX;rope, string, flexible
-f_n;EX;stick, staff
-w_s;EX;new, young, fresh
-s_w;EX;old, time, mature
-j_f;EX;expletive, fuck, shit
-f_j;EX;joyous expression, yay
-f_k;EX;thing, exist, do, happen
-k_f;EX;non-existant, fantasy
-l_n;EX;word, meaning, name
-n_l;EX;question, meaningless
-t_f;EX;good, like
-f_t;EX;bad, dislike
-x_l;EX;container, building, have, (close)
-l_x;EX;outside world, exit, open
-w_n;EX;emotion, excitement
-n_w;EX;apathy, calm
-s_t;EX;noise, sound, wind
-t_s;EX;quiet, still
-l_m;EX;solid, strong, heavy, stone
-m_l;EX;soft, weak, broken, powder, clay, light
-p_n;EX;same, copy, preserve
-n_p;EX;different, compare, change
-s_n;EX;knowledge, wisdom, think, feel
-n_s;EX;stupidity, foolish, silly, forget
-f_l;EX;hot, heat, fire
-l_f;EX;cold, cool, ice
-j_n;EX;person, creature, to live, living, vital
-n_j;EX;corpse, dead, to die
-k_l;EX;clothes, to cover, covered
-l_k;EX;uncovered, naked, bare
-p_j;EX;left, move left
-j_p;EX;right, move right
-t_l;EX;create, make, creation, tool
-l_t;EX;destroy, break
-t_x;EX;start, beginning, first
-x_t;EX;end, finish, last, stop
-f_m;EX;hide, cover, secret
-m_f;EX;reveal, discover, find
-p_l;EX;liquid, water, wet
-l_p;EX;dry, sand, dust
-w_k;EX;natural, plant, grow
-k_w;EX;artificial
-f_s;EX;place, located, be somewhere
-s_f;EX;nowhere, lost
-m_j;EX;power, strength
-j_m;EX;weakness, fragile
-s_j;EX;all, everything, world, universe
-j_s;EX;nothing, empty, void, 0
-m_x;EX;many, plural, divided, uncertain
-x_m;EX;one, singular, united
-w_m;EX;flat, smooth
-m_w;EX;bumpy, course
-s_k;EX;gather, collect, group, 
-k_s;EX;scatter, spread, disorganised
-p_k;EX;look, see, visible, sight, bright
-k_p;EX;blind, dark, invisible
+k_n;E1;go;go!;journey;journies;moving, active;most active;prep.;to
+n_k;E1;come;come!;return;returns;returned;most returned;prep.;from
+k_m;E1;what thing?;what things?;doing what?;(Special form: expletive)what!?;like what?;most like what?;expl.;What!?
+m_k;E1;this/that thing;these/those things;doing this;do this!;like this;most like this
+p_x;EX;eat;eat!;an item of food;food;delicious;most delicious
+x_p;EX;expel;expel!;a piece of excrement;excrement;disgusting;most disgusting;expl.;damn!
+m_n;EX;play;play!;game;games;fun;most fun
+n_m;EX;work;work!;job, task;jobs, tasks;boring;most boring
+n_f;EX;bend;bend!;rope;ropes;flexible;most flexible
+f_n;EX;straighten;straighten!;staff, stick;staffs, sticks;stiff;most stiff
+w_s;EX;refresh;refresh!;youth;youths;young;youngest
+s_w;EX;age;age!;age;ages;old;oldest
+f_k;EX;do, exist;do!;thing;things;existant, real;the most real
+k_f;EX;undo, not do;stop!, go back!;non-thing, fantasy;non-things, fantasies;fake, fantasy;the most fake, fantasy
+l_n;EX;call, name;call!, name!;word, meaning, name;words, names;named;most named
+n_l;EX;question, confuse;question!, confuse!;confusion;confusions;meaningless;most meaningless
+t_f;EX;like, improve;like!, improve!;a good thing;good things;good;best
+f_t;EX;dislike, worsen;dislike!, worsen!;a bad thing;bad things;bad;worst
+x_l;EX;have, contain;have!, contain!;container, building;containers, buildings;contained;most contained
+l_x;EX;lose, open;lose!, open!;outside, exit;outsides, exits;open;most open
+w_n;EX;feel;feel!;emotion, excitement;emotions;emotional;most emotional
+n_w;EX;numb;numb!;apathy;apathies;calm;most calm
+s_t;EX;make noise;make noise!;noise, sound, wind;noises, sounds;loud;loudest
+t_s;EX;be quiet;be quiet!;silence;silences;quiet, still;quietest
+l_m;EX;solidify;solidify!;stone;stones;solid, heavy;heaviest
+m_l;EX;break;break!, weaken!;powder, clay;powders, clays;soft, light;softest, lightest
+p_n;EX;copy, preserve;copy!, preserve!;copy;copies;same, similar;most similar
+n_p;EX;compare, change;compare!, change!;difference, change;differences, changes;different;most different
+s_n;EX;know, think;know!, think!;knowledge, wisdom;known things;intelligent, wise;wisest
+n_s;EX;forget, be stupid;forget!, be stupid!;stupidity;stupidities;foolish, silly;most foolish, silliest
+f_l;EX;heat;heat!;fire;fires;hot;hottest
+l_f;EX;cool;cool!;ice;ices;cold;coldest
+j_n;EX;live;live!;person, creature;people, creatures;alive, vital;most alive
+n_j;EX;die;die!;corpse, death;corpses, deaths;dead;most dead
+k_l;EX;cover, clothe;cover!, clothe!;clothing, cover;clothes, covers;clothed;most clothed
+l_k;EX;undress, uncover;undress!, uncover!;uncovered thing, nakedness;uncovered things;uncovered, naked;most bare
+p_j;EX;move left, west;move left, west!;left, west;lefts;left, west;most left, west
+j_p;EX;move right, east;move right, east!;right, east;rights;right, east;most right, east
+t_l;EX;create, make;create!, make!;creation, tool;creations, tools;high quality;highest quality
+l_t;EX;destroy, break;destroy!, break!;destruction;destructions;destroyed, bad quality;most destroyed, worst quality
+t_x;EX;start;start!;beginning;beginnings;early;earliest, first
+x_t;EX;end, stop;end!, stop!;ending;endings;late;lates, last
+f_m;EX;hide;hide!;secret;secrets;secret, hidden;most secret, hidden
+m_f;EX;reveal, find;find!;discovery;discoveries;public;most public
+p_l;EX;wet;wet!;water, liquid;liquids;wet;wettest
+l_p;EX;dry;dry!;sand, dust;sands, dust;dry;dryest
+w_k;EX;grow;grow!;nature, plant;plants;natural;most natural
+k_w;EX;shrink, wither;shrink!, wither;industry;industries;artificial;most artificial
+f_s;EX;locate;locate!;place, location;places, locations;near;nearest
+s_f;EX;be lost;be lost!;void;voids;lost;most lost
+m_j;EX;force;force!;power, strength;powers, strengths;strong, 
+j_m;EX;weaken;weaken!;weakness, fragility;weaknesses;weak, fragile;most weak, fragile
+s_j;EX;do everything;do everything!;everything, world, universe;worlds, universes;all, universal;most universal
+j_s;EX;do nothing;do nothing!;nothing, void;nothings, voids;none, no;most nothing
+m_x;EX;divide;divide!;division, plural;divisions, plurals;many, divided;most divided
+x_m;EX;unite;unite!;one, unity;ones, unities;singular, united;most united
+w_m;EX;flatten;flatten!;flat surface;flat surfaces;flat, smooth;flattest, smoothest
+m_w;EX;roughen;roughen!;rough surface;rough surfaces;rough, bumpy;roughest, bumpiest
+s_k;EX;gather, collect;gather!, collect;group;groups;organised;most organised
+k_s;EX;scatter;scatter!;spread;spreads;disorganised;least organised
+p_k;EX;look, see;look!, see!;light, sight;lights, sights;visible, bright;most visible, brightest
+k_p;EX;blind;blind!;darkness;darknesses;invisible, dark;least visible, darkest

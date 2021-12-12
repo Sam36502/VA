@@ -1,20 +1,20 @@
 # Fdb version 3
-["xdvipdfmx"] 1638381000 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations" 1638994421
-  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" 1638380999 52648 9e8d99f2a007fb3bca8b5a4a227fc148 "xelatex"
+["xdvipdfmx"] 1639241141 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations" 1639241142
+  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" 1639241141 50916 cbc151ffd81dd1dbbbf4702af0760aeb "xelatex"
   (generated)
   "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.pdf"
-["xelatex"] 1638380999 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "Text_Translations" 1638994421
-  "Text_Translations.aux" 1638380999 1006 006e6ac0c03f55c30e84f0d8ecbd5a59 "xelatex"
-  "Text_Translations.tex" 1638380998 5352 f1cabb87faeb385ec6703b6f811a5045 ""
-  "Text_Translations.toc" 1638380999 518 7ca7f1f78ad8cd82722a40e816dc3d63 "xelatex"
-  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.aux" 1638380999 1006 006e6ac0c03f55c30e84f0d8ecbd5a59 ""
-  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" 1638380998 5352 f1cabb87faeb385ec6703b6f811a5045 ""
+["xelatex"] 1639241140 "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv" "Text_Translations" 1639241142
+  "Text_Translations.aux" 1639241141 866 6862d591a5d3f94ca4afd12ced55f32e "xelatex"
+  "Text_Translations.tex" 1639241140 5377 d8326b598bc4ac5d0bdcac4445223a51 ""
+  "Text_Translations.toc" 1639241141 530 1f9498bd46e17254889b88cc6320138f "xelatex"
+  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.aux" 1639241141 866 6862d591a5d3f94ca4afd12ced55f32e ""
+  "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex" 1639241140 5377 d8326b598bc4ac5d0bdcac4445223a51 ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1589664074 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2020/texmf-dist/fonts/tfm/public/tipa/tipa10.tfm" 1589665742 1920 8604b12a16d79ccdaa2f671dda04ba87 ""
-  "c:/texlive/2020/texmf-dist/tex/latex/base/bk10.clo" 1589664444 8286 94a4316308950c5d5a69b423dbd190ac ""
-  "c:/texlive/2020/texmf-dist/tex/latex/base/book.cls" 1589664444 23147 87043b6c3ff70b5e5185aee55d462dd7 ""
+  "c:/texlive/2020/texmf-dist/tex/latex/base/article.cls" 1589664444 20023 e427dd9e17e239bf926ef3aab67fe35e ""
   "c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty" 1589664444 4947 0c2888dd88121ae675fc6e82213623ba ""
   "c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty" 1589664444 5050 8933a39ad74377accd18991c5eb90c58 ""
+  "c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo" 1589664444 8446 9874cccac5fee462272c582807dbbf56 ""
   "c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd" 1589664444 2431 b6cead9f069ed55f4fba0c637aa047b6 ""
   "c:/texlive/2020/texmf-dist/tex/latex/base/tuenc.def" 1589664444 27440 69bf3d7c71626cc47b8ff9b7bbf0a3c2 ""
   "c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1589664085 163300 4d3d778e38973f06a2524732dbbc580f ""
@@ -30,9 +30,9 @@
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1589666199 4770068 791a4f4739d32d0c0b8da884d3c29f2d ""
   "c:/texlive/2020/texmf.cnf" 1589666097 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
-  "Text_Translations.log"
   "Text_Translations.xdv"
   "Text_Translations.toc"
   "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv"
   "c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.log"
+  "Text_Translations.log"
   "Text_Translations.aux"

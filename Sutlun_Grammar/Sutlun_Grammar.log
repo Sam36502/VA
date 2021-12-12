@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  1 DEC 2021 18:05
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  12 DEC 2021 02:14
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -160,12 +160,12 @@ Chapter 3.
 ] [16] [17
 
 ] [18]
-Underfull \hbox (badness 10000) in paragraph at lines 430--438
+Underfull \hbox (badness 10000) in paragraph at lines 432--440
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 443--451
+Underfull \hbox (badness 10000) in paragraph at lines 442--450
 
  []
 
@@ -175,27 +175,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 452--460
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--474
+Underfull \hbox (badness 10000) in paragraph at lines 462--470
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 475--484
+Underfull \hbox (badness 10000) in paragraph at lines 472--480
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 485--493
+Underfull \hbox (badness 10000) in paragraph at lines 486--494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--506
+Underfull \hbox (badness 10000) in paragraph at lines 496--504
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--515
+Underfull \hbox (badness 10000) in paragraph at lines 506--514
 
  []
 
@@ -205,18 +205,273 @@ Underfull \hbox (badness 10000) in paragraph at lines 516--524
  []
 
 [20]
-Underfull \hbox (badness 10000) in paragraph at lines 529--537
+Underfull \hbox (badness 10000) in paragraph at lines 530--538
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--546
+Underfull \hbox (badness 10000) in paragraph at lines 540--549
 
  []
 
-[21] (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.bbl [22]) [23
 
-] (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.aux)
+Underfull \hbox (badness 10000) in paragraph at lines 551--560
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--570
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 572--580
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--590
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 592--600
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--614
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 616--624
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--634
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 636--644
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 646--654
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 656--664
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 666--674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 680--688
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 690--699
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 701--709
+
+ []
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 711--719
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 721--729
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 741--749
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 751--759
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 765--773
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 775--783
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 795--803
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 805--813
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 815--823
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--837
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 839--847
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 849--857
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 859--867
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 869--877
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 879--887
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 893--902
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 904--912
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 914--922
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 924--932
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 938--946
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 948--956
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 958--966
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 968--976
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 982--990
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 992--1000
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1002--1010
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1012--1020
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1022--1030
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1032--1040
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1050
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1056--1064
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 1066--1074
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1076--1084
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1086--1094
+
+ []
+
+(c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.bbl [33] [34
+
+]) [35] (c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -230,4 +485,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  37i,7n,28p,262b,220s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv (23 pages, 167204 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/Sutlun_Grammar/Sutlun_Grammar.xdv (35 pages, 304196 bytes).
