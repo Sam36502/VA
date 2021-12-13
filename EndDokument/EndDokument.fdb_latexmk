@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex EndDokument"] 1639419438 "EndDokument.aux" "EndDokument.bbl" "EndDokument" 1639419441
+["bibtex EndDokument"] 1639420224 "EndDokument.aux" "EndDokument.bbl" "EndDokument" 1639420253
   "Bibliography.bib" 1639237532 1169 c5df5fb6dec59bb5e103b6d4282fa4ff ""
-  "EndDokument.aux" 1639419439 2914 93326c1ca46524019bddae4410808df1 "xelatex"
+  "EndDokument.aux" 1639420251 2913 9dd0722364a8fcf755733f40d171c6dc "xelatex"
   "c:/texlive/2020/texmf-dist/bibtex/bst/base/apalike.bst" 1589663419 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   (generated)
-  "EndDokument.bbl"
   "EndDokument.blg"
-["xdvipdfmx"] 1639419440 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument" 1639419441
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" 1639419439 369016 dadc54f705fd482532608b03096fc0ed "xelatex"
+  "EndDokument.bbl"
+["xdvipdfmx"] 1639420252 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument" 1639420253
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" 1639420251 369204 da0eb9df1eaea3baf9ebeca0c2cdaf5b "xelatex"
   (generated)
   "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.pdf"
-["xelatex"] 1639419438 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "EndDokument" 1639419441
+["xelatex"] 1639420250 "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv" "EndDokument" 1639420253
   "../Copyright_Declaration/Copyright_Declaration.pdf" 1639324233 11292 94419686dc5ffd7947dd4482b41a9672 ""
   "../Language_Log/langlog.pdf" 1639328070 39010 17c74e8d8c205350a87d444b0ee4977e ""
   "../Project_Description/Project_Description.pdf" 1632412524 31393 8f85710159c545373da344c01fa250bd ""
@@ -18,12 +18,12 @@
   "../Text_Translations/Text_Translations.pdf" 1639341525 36685 a073ef6d7756fb12f774b48665a00e34 ""
   "../images/root_derivations_1.png" 1638662871 51011 7fed2ff32af932d376e353bbf0d8dcfc ""
   "../images/root_derivations_2.png" 1638663153 79038 07d942a53c7bddd9d75aae76efac7c45 ""
-  "EndDokument.aux" 1639419439 2914 93326c1ca46524019bddae4410808df1 "xelatex"
-  "EndDokument.bbl" 1639419438 788 4a19a85bd7527ef379de67b299a3d43a "bibtex EndDokument"
-  "EndDokument.tex" 1639419435 35251 11046d8dad7680231857cf2b00b68f45 ""
-  "EndDokument.toc" 1639419439 1353 7ac44b22bceb1ca6b53c7487d7741093 "xelatex"
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux" 1639419439 2914 93326c1ca46524019bddae4410808df1 ""
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" 1639419435 35251 11046d8dad7680231857cf2b00b68f45 ""
+  "EndDokument.aux" 1639420251 2913 9dd0722364a8fcf755733f40d171c6dc "xelatex"
+  "EndDokument.bbl" 1639420224 788 4a19a85bd7527ef379de67b299a3d43a "bibtex EndDokument"
+  "EndDokument.tex" 1639420249 35298 4bdec706ae7ddcd9edb9bac26f0ea817 ""
+  "EndDokument.toc" 1639420251 1352 45b31c02c6331b1c6572fc78d77b3a51 "xelatex"
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux" 1639420251 2913 9dd0722364a8fcf755733f40d171c6dc ""
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex" 1639420249 35298 4bdec706ae7ddcd9edb9bac26f0ea817 ""
   "c:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1589663284 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.ldf" 1589663310 2164 da22692bce498dcc4f70209c7185a346 ""
   "c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb.ldf" 1589663310 7584 40e9a51a28a966f337267407ea4ab873 ""
@@ -63,9 +63,9 @@
   "c:/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1589666199 4770068 791a4f4739d32d0c0b8da884d3c29f2d ""
   "c:/texlive/2020/texmf.cnf" 1589666097 673 4ae7b2f49cee444c5343a45b5d0f169c ""
   (generated)
-  "EndDokument.xdv"
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv"
-  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.log"
   "EndDokument.aux"
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv"
   "EndDokument.log"
+  "EndDokument.xdv"
   "EndDokument.toc"
+  "c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.log"

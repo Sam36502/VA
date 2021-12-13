@@ -457,14 +457,20 @@ Seite sehr stolz auf das Endprodukt gewesen.
 \bibliography{Bibliography}
 \bibliographystyle{apalike}
 
-\renewcommand{\section}[1]{\newpage\vspace*{\fill}\Huge{#1}\vspace*{\fill}}
+\renewcommand{\section}[1]{
+    \begin{center}
+    \vspace*{\fill}
+    \Huge{#1}
+    \vspace*{\fill}
+    \end{center}
+}
 
 \section{Anhang A: Projektbeschrieb}
 \addcontentsline{toc}{section}{Anhang A: Projektbeschrieb}
 \includepdf[pages=-]{../Project_Description/Project_Description.pdf}
 
 \section{Anhang B: Sutlun Grammatik und Lexikon}
-\addcontentsline{toc}{section}{Anhang B: Sutlun Grammatik und Lexikon}
+\addcontentsline{toc}{section}{Anhang B: Sutlun Grammatikund Lexikon}
 \includepdf[pages=-]{../Sutlun_Grammar/Sutlun_Grammar.pdf}
 
 \section{Anhang C: Übersetzte Texte}
@@ -475,7 +481,7 @@ Seite sehr stolz auf das Endprodukt gewesen.
 \addcontentsline{toc}{section}{Anhang D: Arbeitsprotokoll}
 \includepdf[pages=-]{../Language_Log/langlog.pdf}
 
-\section{Anhang E: \\Selbständigkeitserklärung}
+\section{Anhang E: Selbständigkeitserklärung}
 \addcontentsline{toc}{section}{Anhang E: Selbständigkeitserklärung}
 \includepdf[pages=-]{../Copyright_Declaration/Copyright_Declaration.pdf}
 

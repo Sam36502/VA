@@ -13,7 +13,7 @@
 \contentsline {subsection}{\numberline {3.2}Reflexion zur Erstellung der Orthographie und Schriftart}{12}%
 \contentsline {subsection}{\numberline {3.3}Reflexion zur Organisation}{13}%
 \contentsline {section}{Anhang A: Projektbeschrieb}{15}%
-\contentsline {section}{Anhang B: Sutlun Grammatik und Lexikon}{20}%
+\contentsline {section}{Anhang B: Sutlun Grammatikund Lexikon}{20}%
 \contentsline {section}{Anhang C: Übersetzte Texte}{56}%
 \contentsline {section}{Anhang D: Arbeitsprotokoll}{61}%
 \contentsline {section}{Anhang E: Selbständigkeitserklärung}{67}%
