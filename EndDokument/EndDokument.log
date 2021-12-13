@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  13 DEC 2021 00:29
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  13 DEC 2021 19:17
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -185,47 +185,52 @@ File: ../images/root_derivations_1.png Graphic file (type bmp)
 <../images/root_derivations_1.png>
 File: ../images/root_derivations_2.png Graphic file (type bmp)
 <../images/root_derivations_2.png>
- [4] [5] [6] [7] [8] [9]
-Underfull \hbox (badness 10000) in paragraph at lines 285--291
-
- []
-
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 292--316
+ [4] [5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 235--241
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--316
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--316
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--316
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 322--337
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--337
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 272--287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 322--337
+Underfull \hbox (badness 10000) in paragraph at lines 272--287
 
  []
 
-[12] [13] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl [14]) [15]
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--287
+
+ []
+
+[10] [11]
+Overfull \hbox (1.08002pt too wide) in paragraph at lines 384--384
+[]\TU/lmr/bx/n/12 Reflexion zur Erstellung der Orthographie und Schrift-
+ []
+
+[12] [13] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl) [14]
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
 <use ../Project_Description/Project_Description.pdf>
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
@@ -235,39 +240,39 @@ File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
 <use ../Project_Description/Project_Description.pdf, page 1>
 
-Overfull \hbox (3.54979pt too wide) in paragraph at lines 460--461
-[]\TU/lmr/m/n/24.88 Anhang A: Projektbeschrieb            
+Overfull \hbox (8.55898pt too wide) in paragraph at lines 462--464
+[]\TU/lmr/m/n/24.88 Anhang A: Projektbeschrieb []            
  []
 
-[16]
+[15]
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
 <use ../Project_Description/Project_Description.pdf, page 1>
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
 <use ../Project_Description/Project_Description.pdf, page 1>
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
 <use ../Project_Description/Project_Description.pdf, page 1>
+ [16]
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 2>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 2>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 2>
  [17]
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 2>
+<use ../Project_Description/Project_Description.pdf, page 3>
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 2>
+<use ../Project_Description/Project_Description.pdf, page 3>
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 2>
+<use ../Project_Description/Project_Description.pdf, page 3>
  [18]
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 3>
+<use ../Project_Description/Project_Description.pdf, page 4>
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 3>
+<use ../Project_Description/Project_Description.pdf, page 4>
 File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 3>
+<use ../Project_Description/Project_Description.pdf, page 4>
  [19]
-File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 4>
-File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 4>
-File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
-<use ../Project_Description/Project_Description.pdf, page 4>
- [20]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
 <use ../Sutlun_Grammar/Sutlun_Grammar.pdf>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
@@ -277,256 +282,256 @@ File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
 <use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
 
-Overfull \hbox (9.99362pt too wide) in paragraph at lines 463--464
+Overfull \hbox (9.99362pt too wide) in paragraph at lines 466--468
 []\TU/lmr/m/n/24.88 Anhang B: Sutlun Grammatik und
  []
 
-[21]
+[20]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
 <use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
 <use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
 <use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
+ [21]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
  [22]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
  [23]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
  [24]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
  [25]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
  [26]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
  [27]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
  [28]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
  [29]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
  [30]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
  [31]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
  [32]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
  [33]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
  [34]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
  [35]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
  [36]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
  [37]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
  [38]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
  [39]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
  [40]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
  [41]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
  [42]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
  [43]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
  [44]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
  [45]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
  [46]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
  [47]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
  [48]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
  [49]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
  [50]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
  [51]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
  [52]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
  [53]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
  [54]
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
 File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
  [55]
-File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
-File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
-File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
-<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
- [56]
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
 <use ../Text_Translations/Text_Translations.pdf>
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
@@ -536,106 +541,111 @@ File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
 <use ../Text_Translations/Text_Translations.pdf, page 1>
 
-Overfull \hbox (3.3093pt too wide) in paragraph at lines 466--467
-[]\TU/lmr/m/n/24.88 Anhang C: Übersetzte Texte            
+Overfull \hbox (8.31848pt too wide) in paragraph at lines 470--472
+[]\TU/lmr/m/n/24.88 Anhang C: Übersetzte Texte []            
  []
 
-[57]
+[56]
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
 <use ../Text_Translations/Text_Translations.pdf, page 1>
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
 <use ../Text_Translations/Text_Translations.pdf, page 1>
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
 <use ../Text_Translations/Text_Translations.pdf, page 1>
+ [57]
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 2>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 2>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 2>
  [58]
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 2>
+<use ../Text_Translations/Text_Translations.pdf, page 3>
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 2>
+<use ../Text_Translations/Text_Translations.pdf, page 3>
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 2>
+<use ../Text_Translations/Text_Translations.pdf, page 3>
  [59]
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 3>
+<use ../Text_Translations/Text_Translations.pdf, page 4>
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 3>
+<use ../Text_Translations/Text_Translations.pdf, page 4>
 File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 3>
+<use ../Text_Translations/Text_Translations.pdf, page 4>
  [60]
-File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 4>
-File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 4>
-File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
-<use ../Text_Translations/Text_Translations.pdf, page 4>
- [61]
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
 <use ../Language_Log/langlog.pdf>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
 <use ../Language_Log/langlog.pdf>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 1>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 1>
+
+Overfull \hbox (4.08058pt too wide) in paragraph at lines 474--476
+[]\TU/lmr/m/n/24.88 Anhang D: Arbeitsprotokoll []            
+ []
+
+[61]
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 1>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
 <use ../Language_Log/langlog.pdf, page 1>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
 <use ../Language_Log/langlog.pdf, page 1>
  [62]
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 1>
+<use ../Language_Log/langlog.pdf, page 2>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 1>
+<use ../Language_Log/langlog.pdf, page 2>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 1>
+<use ../Language_Log/langlog.pdf, page 2>
  [63]
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 2>
+<use ../Language_Log/langlog.pdf, page 3>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 2>
+<use ../Language_Log/langlog.pdf, page 3>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 2>
+<use ../Language_Log/langlog.pdf, page 3>
  [64]
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 3>
+<use ../Language_Log/langlog.pdf, page 4>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 3>
+<use ../Language_Log/langlog.pdf, page 4>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 3>
+<use ../Language_Log/langlog.pdf, page 4>
  [65]
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 4>
+<use ../Language_Log/langlog.pdf, page 5>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 4>
+<use ../Language_Log/langlog.pdf, page 5>
 File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 4>
+<use ../Language_Log/langlog.pdf, page 5>
  [66]
-File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 5>
-File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 5>
-File: ../Language_Log/langlog.pdf Graphic file (type pdf)
-<use ../Language_Log/langlog.pdf, page 5>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
  [67]
 File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
-<use ../Copyright_Declaration/Copyright_Declaration.pdf>
-File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
-<use ../Copyright_Declaration/Copyright_Declaration.pdf>
-File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
-<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
-File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
-<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
- [68]
-File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
 <use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
 File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
 <use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
 File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
 <use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
- [69] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
+ [68] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
 Here is how much of TeX's memory you used:
  4713 strings out of 479294
  71545 string characters out of 5884395
- 334041 words of memory out of 5000000
+ 340041 words of memory out of 5000000
  22268 multiletter control sequences out of 15000+600000
  532450 words of font info for 38 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  41i,18n,45p,314b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (69 pages, 367652 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (68 pages, 369016 bytes).

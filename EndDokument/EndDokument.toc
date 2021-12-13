@@ -6,13 +6,14 @@
 \contentsline {subsection}{\numberline {1.4}Prozess der Sprachprüfung}{7}%
 \contentsline {subsection}{\numberline {1.5}Prozess der Erstellung der Orthographie}{8}%
 \contentsline {section}{\numberline {2}Resultate und Schlussfolgerungen}{9}%
-\contentsline {subsection}{\numberline {2.1}Schlussfolgerungen zur Spracherstellung}{9}%
-\contentsline {subsection}{\numberline {2.2}Schlussfolgerungen zur Erstellung der Orthographie und Schriftart}{10}%
-\contentsline {subsection}{\numberline {2.3}Resultate des Experiments}{11}%
-\contentsline {subsection}{\numberline {2.4}Kapazität der Sprache}{12}%
-\contentsline {section}{\numberline {3}Lernjournal \& Reflexion}{14}%
+\contentsline {subsection}{\numberline {2.1}Resultate des Experiments}{9}%
+\contentsline {subsection}{\numberline {2.2}Kapazität der Sprache}{10}%
+\contentsline {section}{\numberline {3}Lernjournal \& Reflexion}{12}%
+\contentsline {subsection}{\numberline {3.1}Reflexion zur Spracherstellung}{12}%
+\contentsline {subsection}{\numberline {3.2}Reflexion zur Erstellung der Orthographie und Schriftart}{12}%
+\contentsline {subsection}{\numberline {3.3}Reflexion zur Organisation}{13}%
 \contentsline {section}{Anhang A: Projektbeschrieb}{15}%
-\contentsline {section}{Anhang B: Sutlun Grammatik und Lexikon}{15}%
-\contentsline {section}{Anhang C: Übersetzte Texte}{15}%
-\contentsline {section}{Anhang D: Arbeitsprotokoll}{15}%
-\contentsline {section}{Anhang E: Selbständigkeitserklärung}{15}%
+\contentsline {section}{Anhang B: Sutlun Grammatik und Lexikon}{20}%
+\contentsline {section}{Anhang C: Übersetzte Texte}{56}%
+\contentsline {section}{Anhang D: Arbeitsprotokoll}{61}%
+\contentsline {section}{Anhang E: Selbständigkeitserklärung}{67}%
