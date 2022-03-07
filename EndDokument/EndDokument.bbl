@@ -1,26 +1,25 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 
-\bibitem{ChUGAI}
-V.~J. Cook and Mark Newson.
+\bibitem[Bibel, 2020]{Bibel2020}
+Bibel (2020).
+\newblock {\em Einheitsübersetzung der Heiligen Schrift : Gesamtausgabe}.
+\newblock kbw Bibelwerk, Stuttgart.
+
+\bibitem[Cook and Newson, 2007]{ChUGAI}
+Cook, V.~J. and Newson, M. (2007).
 \newblock {\em Chomsky's Universal Grammar: An Introduction}.
-\newblock Blackwell Publishing, 3 edition, 2007.
+\newblock Blackwell Publishing, 3 edition.
 
-\bibitem{bibel2020}
-Gott.
-\newblock {\em Die Bibel : Einheitsübersetzung der Heiligen Schrift :
-  Gesamtausgabe}.
-\newblock kbw Bibelwerk, Stuttgart, 2020.
-
-\bibitem{Lang14}
-S.~Lang.
+\bibitem[Lang, 2014]{Lang14}
+Lang, S. (2014).
 \newblock {\em Toki Pona: The Language of Good}.
-\newblock Great Britain, 2014.
+\newblock Great Britain.
 
-\bibitem{Stevens72}
-K.~N. Stevens.
+\bibitem[Stevens, 1972]{Stevens72}
+Stevens, K.~N. (1972).
 \newblock The quantal nature of speech: Evidence from articulatory-acoustic
   data.
-\newblock In E.~E. David and P.~B. Denes, editors, {\em Human Communication: A
-  Unified View}, pages 51--56. McGraw-Hill, New York, 1972.
+\newblock In David, E.~E. and Denes, P.~B., editors, {\em Human Communication:
+  A Unified View}, pages 51--56. McGraw-Hill, New York.
 
 \end{thebibliography}

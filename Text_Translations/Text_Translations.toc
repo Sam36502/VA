@@ -1,8 +1,8 @@
-\contentsline {chapter}{\numberline {1}The North Wind \& Sun}{5}%
-\contentsline {section}{\numberline {1.1}English Text}{5}%
-\contentsline {section}{\numberline {1.2}Sutlun Romanised Text}{5}%
-\contentsline {section}{\numberline {1.3}Sutlun Orthograpy}{5}%
-\contentsline {chapter}{\numberline {2}The Tower of Babel}{7}%
-\contentsline {section}{\numberline {2.1}English Text}{7}%
-\contentsline {section}{\numberline {2.2}Sutlun-Ex Romanised Text}{7}%
-\contentsline {section}{\numberline {2.3}Sutlun-Ex Orthography}{8}%
+\contentsline {section}{\numberline {1}The North Wind \& Sun}{2}%
+\contentsline {subsection}{\numberline {1.1}English Text}{2}%
+\contentsline {subsection}{\numberline {1.2}Sutlun Romanised Text}{2}%
+\contentsline {subsection}{\numberline {1.3}Sutlun Orthograpy}{2}%
+\contentsline {section}{\numberline {2}The Tower of Babel}{3}%
+\contentsline {subsection}{\numberline {2.1}English Text}{3}%
+\contentsline {subsection}{\numberline {2.2}Sutlun Romanised Text}{3}%
+\contentsline {subsection}{\numberline {2.3}Sutlun Orthography}{4}%

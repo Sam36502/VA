@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  1 DEC 2021 18:49
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  12 DEC 2021 21:38
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -6,20 +6,19 @@ entering extended mode
 **c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex
 (c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-05-11> (c:/texlive/2020/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
-(c:/texlive/2020/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+L3 programming layer <2020-05-11> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count163
-\c@chapter=\count164
-\c@section=\count165
-\c@subsection=\count166
-\c@subsubsection=\count167
-\c@paragraph=\count168
-\c@subparagraph=\count169
-\c@figure=\count170
-\c@table=\count171
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
@@ -27,31 +26,31 @@ File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 Package: expl3 2020-05-11 L3 programming layer (loader) 
  (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
-\g__graphics_track_int=\count172
+\g__graphics_track_int=\count171
 \l__pdf_internal_box=\box45
-\g__pdf_backend_object_int=\count173
-\g__pdf_backend_annotation_int=\count174
+\g__pdf_backend_object_int=\count172
+\g__pdf_backend_annotation_int=\count173
 ))
 Package: xparse 2020-03-06 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count175
-\g__xparse_grabber_int=\count176
-\l__xparse_m_args_int=\count177
-\l__xparse_v_nesting_int=\count178
+\l__xparse_current_arg_int=\count174
+\g__xparse_grabber_int=\count175
+\l__xparse_m_args_int=\count176
+\l__xparse_v_nesting_int=\count177
 )
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
  (c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count179
-\l__fontspec_language_int=\count180
-\l__fontspec_strnum_int=\count181
-\l__fontspec_tmp_int=\count182
-\l__fontspec_tmpa_int=\count183
-\l__fontspec_tmpb_int=\count184
-\l__fontspec_tmpc_int=\count185
-\l__fontspec_em_int=\count186
-\l__fontspec_emdef_int=\count187
-\l__fontspec_strong_int=\count188
-\l__fontspec_strongdef_int=\count189
+\l__fontspec_script_int=\count178
+\l__fontspec_language_int=\count179
+\l__fontspec_strnum_int=\count180
+\l__fontspec_tmp_int=\count181
+\l__fontspec_tmpa_int=\count182
+\l__fontspec_tmpb_int=\count183
+\l__fontspec_tmpc_int=\count184
+\l__fontspec_em_int=\count185
+\l__fontspec_emdef_int=\count186
+\l__fontspec_strong_int=\count187
+\l__fontspec_strongdef_int=\count188
 \l__fontspec_tmpa_dim=\dimen135
 \l__fontspec_tmpb_dim=\dimen136
 \l__fontspec_tmpc_dim=\dimen137
@@ -175,11 +174,7 @@ Package fontspec Info: Font family 'LumlunSans(0)' created for font 'Lumlun
 (fontspec)             Sans Regular.ttf]/OT:script=DFLT;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
- [1
-
-] [2
-
-] (c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.toc
+ (c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -188,28 +183,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `Text_Translations.toc'.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3] [4
+ [1
 
 ]
-Chapter 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 46--51
+Underfull \hbox (badness 10000) in paragraph at lines 45--50
 
  []
 
-[5] [6]
-Chapter 2.
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--93
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 82--92
 
  []
 
-[7
-
-]
+[3]
 Missing character: There is no - in font [../fonts/Lumlun Sans Regular.ttf]/OT:script=DFLT;language=dflt;!
 Missing character: There is no - in font [../fonts/Lumlun Sans Regular.ttf]/OT:script=DFLT;language=dflt;!
 Missing character: There is no - in font [../fonts/Lumlun Sans Regular.ttf]/OT:script=DFLT;language=dflt;!
@@ -221,18 +207,18 @@ Missing character: There is no - in font [../fonts/Lumlun Sans Regular.ttf]/OT:s
 Missing character: There is no - in font [../fonts/Lumlun Sans Regular.ttf]/OT:script=DFLT;language=dflt;!
 Missing character: There is no - in font [../fonts/Lumlun Sans Regular.ttf]/OT:script=DFLT;language=dflt;!
 Missing character: There is no - in font [../fonts/Lumlun Sans Regular.ttf]/OT:script=DFLT;language=dflt;!
- [8] (c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.aux)
+ [4] (c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4000 strings out of 479294
- 114106 string characters out of 5884395
- 396635 words of memory out of 5000000
- 21656 multiletter control sequences out of 15000+600000
- 532938 words of font info for 43 fonts, out of 8000000 for 9000
+ 3976 strings out of 479294
+ 113832 string characters out of 5884395
+ 395206 words of memory out of 5000000
+ 21633 multiletter control sequences out of 15000+600000
+ 532930 words of font info for 42 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 44i,5n,59p,307b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,4n,59p,307b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv (8 pages, 52648 bytes).
+Output written on c:/Users/sam/Documents/GitHub/VA/Text_Translations/Text_Translations.xdv (4 pages, 50916 bytes).

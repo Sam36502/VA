@@ -1,48 +1,46 @@
-This is BibTeX, Version 0.99d
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: EndDokument.aux
-Reallocating 'name_of_file' (item size: 1) to 13 items.
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: plain.bst
+The style file: apalike.bst
 Database file #1: Bibliography.bib
 You've used 4 entries,
-            2118 wiz_defined-function locations,
-            526 strings with 4550 characters,
-and the built_in function-call counts, 1143 in all, are:
-= -- 106
+            1935 wiz_defined-function locations,
+            500 strings with 4160 characters,
+and the built_in function-call counts, 1393 in all, are:
+= -- 131
 > -- 42
-< -- 1
-+ -- 17
+< -- 5
++ -- 14
 - -- 12
-* -- 57
-:= -- 197
+* -- 93
+:= -- 247
 add.period$ -- 13
 call.type$ -- 4
-change.case$ -- 15
-chr.to.int$ -- 0
+change.case$ -- 23
+chr.to.int$ -- 4
 cite$ -- 4
-duplicate$ -- 58
-empty$ -- 106
-format.name$ -- 12
-if$ -- 251
-int.to.chr$ -- 0
-int.to.str$ -- 4
+duplicate$ -- 67
+empty$ -- 112
+format.name$ -- 18
+if$ -- 286
+int.to.chr$ -- 1
+int.to.str$ -- 0
 missing$ -- 7
 newline$ -- 23
-num.names$ -- 10
-pop$ -- 29
+num.names$ -- 14
+pop$ -- 30
 preamble$ -- 1
-purify$ -- 13
+purify$ -- 25
 quote$ -- 0
-skip$ -- 35
+skip$ -- 51
 stack$ -- 0
-substring$ -- 41
+substring$ -- 70
 swap$ -- 11
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 10
+type$ -- 18
 warning$ -- 0
 while$ -- 11
-width$ -- 5
-write$ -- 47
+width$ -- 0
+write$ -- 55

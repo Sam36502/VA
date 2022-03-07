@@ -10,7 +10,6 @@ and document how it goes.
 If I have time left over, I'll also design a custom writing system with a font for it.
 
 ## Documents
+### [Final Document](https://github.com/Sam36502/VA/raw/main/EndDokument/EndDokument.pdf)
 ### [Project Description](https://github.com/Sam36502/VA/blob/main/Project_Description/Project_Description.pdf)
-### ~~Language Documentation~~
-### ~~Language usability~~
-### ~~Script Design~~
+### [Language Documentation](https://github.com/Sam36502/VA/raw/main/Sutlun_Grammar/Sutlun_Grammar.pdf)

@@ -1,106 +1,105 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.21)  8 DEC 2021 20:16
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.17)  13 DEC 2021 21:32
 entering extended mode
-**d:/TBZ/VA/EndDokument/EndDokument.tex
-(d:/TBZ/VA/EndDokument/EndDokument.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-08-27> (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-(C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex
+(c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-05-11> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+\bibindent=\dimen134
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+\KV@toks@=\toks15
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 ))
-\Gin@req@height=\dimen139
-\Gin@req@width=\dimen140
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2021/07/22 3.63 The Babel package
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
-File: babel.def 2021/07/22 3.63 Babel common definitions
-\babel@savecnt=\count190
-\U@D=\dimen141
-\l@unhyphenated=\language79
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/04/28 3.43 The Babel package
+ (c:/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/04/28 3.43 Babel common definitions
+\babel@savecnt=\count171
+\U@D=\dimen137
+ (c:/texlive/2020/texmf-dist/tex/generic/babel/xebabel.def (c:/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def))
 \bbl@readstream=\read2
 )
-\bbl@dirlevel=\count191
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
-Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthography)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
-Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthography)
-Package babel Info: Making " an active character on input line 122.
-))) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/tipa\tipa.sty
+\bbl@dirlevel=\count172
+ (c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthography)
+ (c:/texlive/2020/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthography)
+Package babel Info: Making " an active character on input line 121.
+))) (c:/texlive/2020/texmf-dist/tex/latex/tipa/tipa.sty
 Package: tipa 2002/08/08 TIPA version 1.1
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3enc.def
+ (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+ (c:/texlive/2020/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
-Now handling font encoding T3 ...
-... no UTF-8 mapping file for font encoding T3
-))) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+))) (c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip49
 \bibsep=\skip50
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count192
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
-Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+\c@NAT@ctr=\count173
+) (c:/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count193
-\calc@Bcount=\count194
-\calc@Adimen=\dimen142
-\calc@Bdimen=\dimen143
+\calc@Acount=\count174
+\calc@Bcount=\count175
+\calc@Adimen=\dimen138
+\calc@Bdimen=\dimen139
 \calc@Askip=\skip51
 \calc@Bskip=\skip52
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count195
+\calc@Ccount=\count176
 \calc@Cskip=\skip53
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
-Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen144
-\ESO@tempdimb=\dimen145
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (c:/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+ (c:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+ (c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (c:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Driver file: xetex.def on input line 225.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -109,138 +108,524 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
-\AM@pagewidth=\dimen146
-\AM@pageheight=\dimen147
-\AM@fboxrule=\dimen148
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
-File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+\AM@pagewidth=\dimen140
+\AM@pageheight=\dimen141
+ (c:/texlive/2020/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2020/01/28 v0.5q Pdfpages driver for XeTeX (AM)
 )
-\pdfpages@includegraphics@status=\count196
-\AM@pagebox=\box50
-\AM@global@opts=\toks17
-\AM@pagecnt=\count197
-\AM@toc@title=\toks18
-\c@AM@survey=\count198
-\AM@templatesizebox=\box51
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks19
-\inpenc@posthook=\toks20
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count199
-\l__pdf_internal_box=\box52
-) (EndDokument.aux)
+\AM@pagebox=\box45
+\AM@global@opts=\toks16
+\AM@pagecnt=\count177
+\AM@toc@title=\toks17
+\c@AM@survey=\count178
+\AM@templatesizebox=\box46
+) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count179
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count180
+\g__pdf_backend_annotation_int=\count181
+) (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux)
 \openout1 = `EndDokument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 10.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 10.
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 9.
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 9.
+ (c:/texlive/2020/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count266
-\scratchdimen=\dimen149
-\scratchbox=\box53
-\nofMPsegments=\count267
-\nofMParguments=\count268
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count269
-\MPscratchDim=\dimen150
-\MPnumerator=\count270
-\makeMPintoPDFobject=\count271
-\everyMPtoPDFconversion=\toks22
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+LaTeX Font Info:    ... okay on input line 9.
+\AtBeginShipoutBox=\box48
+ (c:/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
- (C:\Users\sape\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+) [1
+
+] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
 )
-Overfull \hbox (6.57013pt too wide) in paragraph at lines 49--57
-\OT1/cmr/m/n/9 Um-fang ei-ner Spra-che (d.h. der An-zahl der all-ge-mein ge-br[]auchlichen W[]orter
- []
-
-[1
-
-{C:/Users/sape/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (EndDokument.toc)
 \tf@toc=\write3
 \openout3 = `EndDokument.toc'.
 
  [2] [3]
-<../images//root_derivations_1.png, id=18, 805.0075pt x 584.1825pt>
-File: ../images//root_derivations_1.png Graphic file (type png)
-<use ../images//root_derivations_1.png>
-Package pdftex.def Info: ../images//root_derivations_1.png  used on input line 122.
-(pdftex.def)             Requested size: 265.6533pt x 192.7808pt.
-<../images//root_derivations_2.png, id=20, 807.015pt x 825.0825pt>
-File: ../images//root_derivations_2.png Graphic file (type png)
-<use ../images//root_derivations_2.png>
-Package pdftex.def Info: ../images//root_derivations_2.png  used on input line 135.
-(pdftex.def)             Requested size: 266.31577pt x 272.27806pt.
- [4] [5 <../images//root_derivations_1.png> <../images//root_derivations_2.png>] [6]
-Overfull \hbox (20.93796pt too wide) in paragraph at lines 217--217
-[]\OT1/cmr/bx/n/14.4 Schlussfolgerungen zur Nutz-bar-keit mei-ner Spra-
+File: ../images/root_derivations_1.png Graphic file (type bmp)
+<../images/root_derivations_1.png>
+File: ../images/root_derivations_2.png Graphic file (type bmp)
+<../images/root_derivations_2.png>
+ [4] [5] [6] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 235--241
+
  []
 
-(EndDokument.bbl [7]) [8] (EndDokument.aux) ) 
-Here is how much of TeX's memory you used:
- 5433 strings out of 478927
- 81449 string characters out of 2853008
- 402483 words of memory out of 3000000
- 23214 multiletter control sequences out of 15000+600000
- 406850 words of font info for 38 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 62i,7n,75p,267b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/sape/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on EndDokument.pdf (8 pages, 226496 bytes).
-PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--266
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 272--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--287
+
+ []
+
+[10] [11]
+Overfull \hbox (1.08002pt too wide) in paragraph at lines 384--384
+[]\TU/lmr/bx/n/12 Reflexion zur Erstellung der Orthographie und Schrift-
+ []
+
+[12] [13] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.bbl) [14]
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 1>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 1>
+ [15]
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 1>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 1>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 1>
+ [16]
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 2>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 2>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 2>
+ [17]
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 3>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 3>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 3>
+ [18]
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 4>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 4>
+File: ../Project_Description/Project_Description.pdf Graphic file (type pdf)
+<use ../Project_Description/Project_Description.pdf, page 4>
+ [19]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
+ [20]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 1>
+ [21]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 2>
+ [22]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 3>
+ [23]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 4>
+ [24]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 5>
+ [25]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 6>
+ [26]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 7>
+ [27]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 8>
+ [28]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 9>
+ [29]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 10>
+ [30]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 11>
+ [31]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 12>
+ [32]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 13>
+ [33]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 14>
+ [34]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 15>
+ [35]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 16>
+ [36]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 17>
+ [37]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 18>
+ [38]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 19>
+ [39]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 20>
+ [40]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 21>
+ [41]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 22>
+ [42]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 23>
+ [43]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 24>
+ [44]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 25>
+ [45]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 26>
+ [46]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 27>
+ [47]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 28>
+ [48]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 29>
+ [49]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 30>
+ [50]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 31>
+ [51]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 32>
+ [52]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 33>
+ [53]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 34>
+ [54]
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
+File: ../Sutlun_Grammar/Sutlun_Grammar.pdf Graphic file (type pdf)
+<use ../Sutlun_Grammar/Sutlun_Grammar.pdf, page 35>
+ [55]
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 1>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 1>
+ [56]
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 1>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 1>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 1>
+ [57]
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 2>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 2>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 2>
+ [58]
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 3>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 3>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 3>
+ [59]
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 4>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 4>
+File: ../Text_Translations/Text_Translations.pdf Graphic file (type pdf)
+<use ../Text_Translations/Text_Translations.pdf, page 4>
+ [60]
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 1>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 1>
+ [61]
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 1>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 1>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 1>
+ [62]
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 2>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 2>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 2>
+ [63]
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 3>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 3>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 3>
+ [64]
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 4>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 4>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 4>
+ [65]
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 5>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 5>
+File: ../Language_Log/langlog.pdf Graphic file (type pdf)
+<use ../Language_Log/langlog.pdf, page 5>
+ [66]
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
+ [67]
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
+File: ../Copyright_Declaration/Copyright_Declaration.pdf Graphic file (type pdf)
+<use ../Copyright_Declaration/Copyright_Declaration.pdf, page 1>
+ [68] (c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.aux) ) 
+Here is how much of TeX's memory you used:
+ 4713 strings out of 479294
+ 71545 string characters out of 5884395
+ 340041 words of memory out of 5000000
+ 22268 multiletter control sequences out of 15000+600000
+ 532450 words of font info for 38 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 41i,18n,45p,314b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on c:/Users/sam/Documents/GitHub/VA/EndDokument/EndDokument.xdv (68 pages, 369256 bytes).
