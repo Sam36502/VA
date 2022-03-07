@@ -1,0 +1,23 @@
+VA-Presentation Outline
+
+ - Introduction
+	- Greeting
+	- Idea & Motivation
+	- Project Plan
+ - Language Explanation
+	- Regular Sound Structure
+	- Root System
+	- Basic overview of Morphology & Derivation
+ - VA-Results
+	- Language & Script development process
+		- Experience
+		- Problems
+	- Translating to Sutlun
+		- Experience
+		- Problems
+	- Translating from Sutlun
+		- Experience
+		- Problems
+ - Sample Translation
+	- Ask for example sentence
+	- Translate step-by-step
